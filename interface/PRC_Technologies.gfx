@@ -1,0 +1,417 @@
+	### CHINA ###
+spriteTypes = {	
+	SpriteType = {
+		name = "GFX_PRC_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/infantry/PRC_infantry1.png"
+	}	
+	
+	SpriteType = {
+		name = "GFX_PRC_infantry_weapons2_medium"
+		texturefile = "gfx/interface/technologies/infantry/PRC_infantry2.png"
+	}	
+	
+	SpriteType = {
+		name = "GFX_PRC_infantry_weapons3_medium"
+		texturefile = "gfx/interface/technologies/infantry/PRC_infantry3.png"
+	}	
+	
+	SpriteType = {
+		name = "GFX_PRC_infantry_weapons4_medium"
+		texturefile = "gfx/interface/technologies/infantry/PRC_infantry4.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_PRC_infantry_weapons5_medium"
+		texturefile = "gfx/interface/technologies/infantry/PRC_infantry5.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_PRC_infantry_weapons6_medium"
+		texturefile = "gfx/interface/technologies/infantry/PRC_infantry6.png"
+	}
+
+	SpriteType = {
+		name = "GFX_PRC_qts_14_nib_medium"
+		texturefile = "gfx/interface/technologies/infantry/PRC_qts_14_nib.png"
+	}
+
+	SpriteType = {
+		name = "GFX_PRC_infantry_rifle_upgrade_medium"
+		texturefile = "gfx/interface/technologies/infantry/universal/PRC_rifle_upgrade_rail1.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_PRC_infantry_rifle_upgrade2_medium"
+		texturefile = "gfx/interface/technologies/infantry/universal/PRC_rifle_upgrade1.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_PRC_infantry_rifle_upgrade3_medium"
+		texturefile = "gfx/interface/technologies/infantry/universal/PRC_rifle_upgrade2.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_PRC_infantry_rifle_upgrade4_medium"
+		texturefile = "gfx/interface/technologies/infantry/universal/PRC_rifle_upgrade3.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_PRC_infantry_rifle_upgrade5_medium"
+		texturefile = "gfx/interface/technologies/infantry/universal/PRC_rifle_upgrade_rail2.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_PRC_infantry_rifle_upgrade6_medium"
+		texturefile = "gfx/interface/technologies/infantry/universal/PRC_rifle_upgrade4.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_PRC_infantry_rifle_upgrade7_medium"
+		texturefile = "gfx/interface/technologies/infantry/universal/PRC_rifle_upgrade_rail3.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_PRC_infantry_rifle_upgrade8_medium"
+		texturefile = "gfx/interface/technologies/infantry/universal/PRC_rifle_upgrade5.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_PRC_infantry_rifle_upgrade9_medium"
+		texturefile = "gfx/interface/technologies/infantry/universal/PRC_rifle_upgrade6.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_PRC_night_vision_medium"
+		texturefile = "gfx/interface/technologies/infantry/universal/PRC_night_vision.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_PRC_night_vision2_medium"
+		texturefile = "gfx/interface/technologies/infantry/universal/PRC_night_vision2.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_PRC_night_vision3_medium"
+		texturefile = "gfx/interface/technologies/infantry/universal/PRC_night_vision3.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_PRC_night_vision4_medium"
+		texturefile = "gfx/interface/technologies/infantry/universal/PRC_night_vision4.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_PRC_night_vision5_medium"
+		texturefile = "gfx/interface/technologies/infantry/universal/PRC_night_vision5.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_PRC_night_vision6_medium"
+		texturefile = "gfx/interface/technologies/infantry/universal/PRC_night_vision6.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_PRC_body_armor_medium"
+		texturefile = "gfx/interface/technologies/infantry/universal/PRC_body_armor.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_PRC_body_armor2_medium"
+		texturefile = "gfx/interface/technologies/infantry/universal/PRC_body_armor2.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_PRC_body_armor3_medium"
+		texturefile = "gfx/interface/technologies/infantry/universal/PRC_body_armor3.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_PRC_body_armor4_medium"
+		texturefile = "gfx/interface/technologies/infantry/universal/PRC_body_armor4.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_PRC_body_armor5_medium"
+		texturefile = "gfx/interface/technologies/infantry/universal/PRC_body_armor5.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_PRC_body_armor6_medium"
+		texturefile = "gfx/interface/technologies/infantry/universal/PRC_body_armor6.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_PRC_body_armor7_medium"
+		texturefile = "gfx/interface/technologies/infantry/universal/PRC_body_armor7.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_PRC_body_armor8_medium"
+		texturefile = "gfx/interface/technologies/infantry/universal/PRC_body_armor8.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_PRC_amphibious_tank_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_amphibious_tank.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_PRC_amphibious_tank1_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_amphibious_tank3.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_amphibious_tank2_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_amphibious_tank3.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_amphibious_tank3_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_amphibious_tank3.png"
+	}
+	## LIGHT TANKS ##
+	SpriteType = {
+		name = "GFX_PRC_light_tank1_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_light_tank1.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_light_tank2_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_light_tank2.png"
+	}
+    SpriteType = {
+        name = "GFX_PRC_improved_light_tank_chassis_medium" 
+        texturefile = "gfx/interface/technologies/armor/PRC_light_tank4.png"
+    }
+    SpriteType = {
+        name = "GFX_PRC_advanced_light_tank_chassis_medium"
+        texturefile = "gfx/interface/technologies/armor/PRC_light_tank5.png"
+    }
+	
+	## MAIN BATTLE TANKS ##
+	SpriteType = {
+		name = "GFX_PRC_main_battle_tank1_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_modern_tank3.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRC_main_battle_tank2_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_modern_tank4.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRC_main_battle_tank3_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_modern_tank6.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRC_main_battle_tank4_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_modern_tank6.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRC_main_battle_tank5_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_modern_tank3.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRC_main_battle_tank6_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_modern_tank6.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRC_main_battle_tank7_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_modern_tank7.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_main_battle_tank8_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_modern_tank8.dds"
+	}
+	
+	## MECHANIZED ##
+	SpriteType = {
+		name = "GFX_PRC_mechanised_infantry1_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_mechanized1.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_mechanised_infantry2_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_mechanized2.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_mechanised_infantry3_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_mechanized3.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_mechanised_infantry4_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_mechanized4.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_mechanised_infantry5_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_mechanized5.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_tank_destroyer1_medium"
+		texturefile = "gfx/interface/technologies/artillery/PRC_tank_destroyer1.png"
+	}	
+	
+	SpriteType = {
+		name = "GFX_PRC_tank_destroyer2_medium"
+		texturefile = "gfx/interface/technologies/artillery/PRC_tank_destroyer2.png"
+	}
+	
+	## LIGHT MECHANIZED ##
+	SpriteType = {
+		name = "GFX_PRC_light_mechanized_infantry1_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_light_mechanized1.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_light_mechanized_infantry2_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_light_mechanized2.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_light_mechanized_infantry3_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_light_mechanized3.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_light_mechanized_infantry4_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_light_mechanized4.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_light_mechanized_infantry5_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_light_mechanized5.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_light_mechanized_infantry6_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_light_mechanized6.png"
+	}
+
+	SpriteType = {
+		name = "GFX_PRC_motorised_infantry_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_motorised_infantry.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_motorised_infantry2_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_motorised_infantry2.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_motorised_infantry3_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_motorised_infantry3.png"
+	}
+
+	SpriteType = {
+		name = "GFX_PRC_amphibious_mechanized_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_amphibious_mechanized.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_amphibious_mechanized_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_amphibious_tank3.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_amphibious_mechanized_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/armor/PRC_amphibious_tank3.png"
+	}
+
+	SpriteType = {
+		name = "GFX_PRC_ztz_105"
+		texturefile = "gfx/interface/technologies/armor/PRC_ztz_105.png"
+	}
+
+    ##203mm artillery##
+	SpriteType = {
+		name = "GFX_PRC_203_cannon_medium"
+		texturefile = "gfx/interface/technologies/artillery/PRC_203_cannon.png"
+	}
+
+	SpriteType = {
+		name = "GFX_UAV_support_equipment_medium"
+		texturefile = "gfx/interface/technologies/UAV_support_equipment.png"
+	}
+
+	## Suicide Drone## 	
+	SpriteType = {
+		name = "GFX_PRC_suicide_drone_tech2_medium"
+		texturefile = "gfx/interface/technologies/aircraft/PRC_suicide_drone1.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_suicide_drone_tech3_medium"
+		texturefile = "gfx/interface/technologies/aircraft/PRC_suicide_drone2.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_suicide_drone_tech4_medium"
+		texturefile = "gfx/interface/technologies/aircraft/PRC_suicide_drone3.png"
+	}
+
+    ## TRAIN ##
+	SpriteType = {
+		name = "GFX_PRC_train_equipment_medium"
+		texturefile = "gfx/interface/technologies/PRC_freight_train_equipment_1.png"
+	}	
+	SpriteType = {
+		name = "GFX_PRC_train_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/PRC_freight_train_equipment_1.png"
+	}	
+	SpriteType = {
+		name = "GFX_PRC_train_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/PRC_freight_train_equipment_2.png"
+	}	
+	SpriteType = {
+		name = "GFX_PRC_train_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/PRC_freight_train_equipment_2.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_basic_train_medium"
+		texturefile = "gfx/interface/technologies/PRC_freight_train_equipment_1.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_wartime_train_medium"
+		texturefile = "gfx/interface/technologies/PRC_freight_train_equipment_1.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_armored_train_medium"
+		texturefile = "gfx/interface/technologies/PRC_armored_freight_train.png"
+	}
+
+	## TRANSPORTS ##
+	SpriteType = {
+		name = "GFX_PRC_transport_plane_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/aircraft/PRC_transport_plane_equipment.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_transport_plane2_medium"
+		texturefile = "gfx/interface/technologies/aircraft/PRC_transport_plane_equipment.png"
+	}
+
+	## FIGHTERS ##
+	SpriteType = {
+		name = "GFX_PRC_j35a"
+		texturefile = "gfx/interface/technologies/aircraft/PRC_J-35A.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_j15t"
+		texturefile = "gfx/interface/technologies/aircraft/PRC_J15T.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_j45"
+		texturefile = "gfx/interface/technologies/aircraft/PRC_J-45.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_j50"
+		texturefile = "gfx/interface/technologies/aircraft/PRC_J50.png"
+	}
+	SpriteType = {
+		name = "GFX_PRC_j52"
+		texturefile = "gfx/interface/technologies/aircraft/PRC_J-52.png"
+	}
+
+	### SUPPORT COMPANIES ###
+	
+	SpriteType = {
+		name = "GFX_PRC_tech_support_medium"
+		texturefile = "gfx/interface/technologies/PRC_support_equipment_1.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_PRC_tech_support1_medium"
+		texturefile = "gfx/interface/technologies/PRC_support_equipment_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRC_floating_harbor_equipment_medium"
+		texturefile = "gfx/interface/technologies/PRC_floating_harbor_equipment_1.dds"
+	}	
+	SpriteType = {
+		name = "GFX_PRC_floating_harbor_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/PRC_floating_harbor_equipment_1.dds"
+	}
+
+}

@@ -1,0 +1,58 @@
+spriteTypes = {
+    spriteType = {
+        name = GFX_PRC_eco.1
+        textureFile = gfx/event_pictures/PRC_eco.1.png
+    }
+    spriteType = {
+        name = GFX_PRC_eco.2
+        textureFile = gfx/event_pictures/PRC_eco.2.png
+    }
+    spriteType = {
+        name = GFX_PRC_eco.3
+        textureFile = gfx/event_pictures/PRC_eco.3.png
+    }
+    spriteType = {
+        name = GFX_PRC_eco.4
+        textureFile = gfx/event_pictures/PRC_eco.4.png
+    }
+    spriteType = {
+        name = GFX_PRC_eco.5
+        textureFile = gfx/event_pictures/PRC_eco.5.png
+    }
+    spriteType = {
+        name = GFX_PRC_eco.6
+        textureFile = gfx/event_pictures/PRC_eco.6.png
+    }
+    spriteType = {
+        name = GFX_PRC_eco.7
+        textureFile = gfx/event_pictures/PRC_eco.7.png
+    }
+    spriteType = {
+        name = GFX_PRC_eco.8
+        textureFile = gfx/event_pictures/PRC_eco.8.png
+    }
+    spriteType = {
+        name = GFX_PRC_eco.9
+        textureFile = gfx/event_pictures/PRC_eco.9.png
+    }
+    spriteType = {
+        name = GFX_PRC_eco.11
+        textureFile = gfx/event_pictures/PRC_eco.11.png
+    }
+    spriteType = {
+        name = GFX_PRC_eco.13
+        textureFile = gfx/event_pictures/PRC_eco.13.png
+    }
+    spriteType = {
+        name = GFX_PRC_eco.14
+        textureFile = gfx/event_pictures/PRC_eco.14.png
+    }
+    spriteType = {
+        name = GFX_PRC_eco.15
+        textureFile = gfx/event_pictures/PRC_eco.15.png
+    }
+    spriteType = {
+        name = GFX_PRC_eco.17
+        textureFile = gfx/event_pictures/PRC_eco.17.png
+    }
+}

@@ -1,0 +1,389 @@
+guiTypes = {
+#军改gui	
+	containerWindowType = {
+		name = "TFR_PRC_military"
+		clipping = no
+		
+		iconType = {
+			name = "military_background" 
+			position = { x = 0 y = -697 }
+			spriteType = "GFX_military_background"
+			alwaystransparent = yes
+		}
+
+		#陆军
+		iconType = {
+			name = "military_iron_great_wall" 
+			position = { x = 0 y = -697 }
+			spriteType = "GFX_military_iron_great_wall"
+			alwaystransparent = yes
+		}
+		iconType = {
+			name = "military_mobile_warfare_nat_1" 
+			position = { x = 0 y = -697 }
+			spriteType = "GFX_military_mobile_warfare_nat_1"
+			alwaystransparent = yes
+		}
+		iconType = {
+			name = "military_expand_the_thunder_gods_1" 
+			position = { x = 0 y = -697 }
+			spriteType = "GFX_military_expand_the_thunder_gods_1"
+			alwaystransparent = yes
+		}
+		iconType = {
+			name = "military_artillery_project_1" 
+			position = { x = 0 y = -697 }
+			spriteType = "GFX_military_artillery_project_1"
+			alwaystransparent = yes
+		}
+		iconType = {
+			name = "military_artillery_informatization" 
+			position = { x = 0 y = -697 }
+			spriteType = "GFX_military_artillery_informatization"
+			alwaystransparent = yes
+		}
+		#空军
+		iconType = {
+			name = "military_Early_Warning_System" 
+			position = { x = 0 y = -697 }
+			spriteType = "GFX_military_Early_Warning_System"
+			alwaystransparent = yes
+		}
+		iconType = {
+			name = "military_Project_Advanced_Aircraft" 
+			position = { x = 0 y = -697 }
+			spriteType = "GFX_military_Project_Advanced_Aircraft"
+			alwaystransparent = yes
+		}
+		iconType = {
+			name = "military_Project_trust_in_the_pilot_1" 
+			position = { x = 0 y = -697 }
+			spriteType = "GFX_military_Project_trust_in_the_pilot_1"
+			alwaystransparent = yes
+		}
+		iconType = {
+			name = "military_Electronic_Warfare_System" 
+			position = { x = 0 y = -697 }
+			spriteType = "GFX_military_Electronic_Warfare_System"
+			alwaystransparent = yes
+		}
+		iconType = {
+			name = "military_integrated_Reconnaissance_Strike_UAV" 
+			position = { x = 0 y = -697 }
+			spriteType = "GFX_military_integrated_Reconnaissance_Strike_UAV"
+			alwaystransparent = yes
+		}
+
+		#海军
+		iconType = {
+			name = "military_resurrect_the_battleship_1" 
+			position = { x = 0 y = -697 }
+			spriteType = "GFX_military_resurrect_the_battleship_1"
+			alwaystransparent = yes
+		}
+		iconType = {
+			name = "military_rain_fire_from_above_1" 
+			position = { x = 0 y = -697 }
+			spriteType = "GFX_military_rain_fire_from_above_1"
+			alwaystransparent = yes
+		}
+		iconType = {
+			name = "military_carrier_primacy_1" 
+			position = { x = 0 y = -697 }
+			spriteType = "GFX_military_carrier_primacy_1"
+			alwaystransparent = yes
+		}
+		iconType = {
+			name = "military_rain_fire_from_above_2" 
+			position = { x = 0 y = -697 }
+			spriteType = "GFX_military_rain_fire_from_above_2"
+			alwaystransparent = yes
+		}
+		iconType = {
+			name = "military_next_generation_warships_1" 
+			position = { x = 0 y = -697 }
+			spriteType = "GFX_military_next_generation_warships_1"
+			alwaystransparent = yes
+		}
+
+		#战支
+		iconType = {
+			name = "military_advanced_joint_logistics_support_system" 
+			position = { x = 0 y = -697 }
+			spriteType = "GFX_military_advanced_joint_logistics_support_system"
+			alwaystransparent = yes
+		}
+		iconType = {
+			name = "military_military_satellite_network_upgrade" 
+			position = { x = 0 y = -697 }
+			spriteType = "GFX_military_military_satellite_network_upgrade"
+			alwaystransparent = yes
+		}
+		iconType = {
+			name = "military_comprehensive_support_unit" 
+			position = { x = 0 y = -697 }
+			spriteType = "GFX_military_comprehensive_support_unit"
+			alwaystransparent = yes
+		}
+		iconType = {
+			name = "military_embrace_the_future_1" 
+			position = { x = 0 y = -697 }
+			spriteType = "GFX_military_embrace_the_future_1"
+			alwaystransparent = yes
+		}
+		iconType = {
+			name = "military_cybersecurity_assurance" 
+			position = { x = 0 y = -697 }
+			spriteType = "GFX_military_cybersecurity_assurance"
+			alwaystransparent = yes
+		}
+
+		#军改完成
+		iconType = {#龙腾九天
+			name = "military_dragon_soaring_to_the_skies" 
+			position = { x = 0 y = -697 }
+			spriteType = "GFX_military_dragon_soaring_to_the_skies"
+			alwaystransparent = yes
+		}
+		iconType = {#空军
+			name = "military_dominate_the_skies_1" 
+			position = { x = 0 y = -697 }
+			spriteType = "GFX_military_dominate_the_skies_1"
+			alwaystransparent = yes
+		}
+		iconType = {#海军
+			name = "military_supremacy_above_and_below_waters_1" 
+			position = { x = 0 y = -697 }
+			spriteType = "GFX_military_supremacy_above_and_below_waters_1"
+			alwaystransparent = yes
+		}
+		iconType = {#陆军
+			name = "military_tank_primacy_nat_1" 
+			position = { x = 0 y = -697 }
+			spriteType = "GFX_military_tank_primacy_nat_1"
+			alwaystransparent = yes
+		}
+		iconType = {#战支
+			name = "military_unmovable_like_mountain_goodness_like_water" 
+			position = { x = 0 y = -697 }
+			spriteType = "GFX_military_unmovable_like_mountain_goodness_like_water"
+			alwaystransparent = yes
+		}
+	}
+#学说
+    containerWindowType = {
+		name = "countrydoctrineview"
+		position = { x=-3 y=78 }
+		size = { width = 100%% height = 100%% }
+		fade_time = 400
+		fade_type = linear
+
+		background = {
+			name = "Background"
+			quadTextureSprite ="GFX_tiled_plain_bg2"
+		}
+
+        containerWindowType = {
+			name = "land_doctrine_folder"
+			position = { x=0 y=47 }
+			size = { width = 100%% height = 100%% }
+			margin = { top = 13 left = 13 bottom = 24 right = 25}
+			drag_scroll = { left middle }
+			verticalScrollbar = "right_vertical_slider"
+			horizontalScrollbar = "bottom_horizontal_slider"
+			scroll_wheel_factor = 40
+
+			background = {
+				name = "Background"
+				quadTextureSprite ="GFX_tiled_window_2b_border"
+			}
+
+			containerWindowType = {
+				name = "size_filler"
+				position = { x=0 y=0 }
+				size = { width = 2100 height = 100% }
+			}
+		iconType = {
+			name ="Integrated_Information_and_Firepower_bg"
+			spriteType = "GFX_Integrated_Information_and_Firepower_bg"
+			position = { x=1555 y=33 }
+		}
+
+		instantTextBoxType = {
+			name = "integrated_information_and_firepower_title"
+			position = { x = 1600 y = 35 }
+			textureFile = ""
+			font = "hoi_22tech"
+			borderSize = {x = 0 y = 4}
+			text = "INTEGRATED_INFORMATION_AND_FIREPOWER_DOCTRINE_LABEL"
+			maxWidth = 400
+			maxHeight = 122
+			format = center
+			Orientation = "UPPER_LEFT"
+		}			
+		
+		instantTextBoxType = {
+			name = "integrated_information_and_firepower_desc"
+			position = { x = 1620 y = 90 }
+			textureFile = ""
+			font = "hoi_20b"
+			borderSize = {x = 0 y = 4}
+			text = "INTEGRATED_INFORMATION_AND_FIREPOWER_DOCTRINE_DESC"
+			maxWidth = 350
+			maxHeight = 122
+			format = center
+			Orientation = "UPPER_LEFT"
+		}
+		
+		gridboxtype = {
+			name = "Integrated_Information_and_Firepower_tree"
+			position = { x=1553 y=172 }
+			size = { width = 478 height = 1350 }
+			slotsize = { width=60 height= 60 }
+			format = "UP"
+
+			background = {
+				name = "Background"
+				quadTextureSprite ="GFX_fullborder_tiled"
+				position = { x=0 y=-150 }					
+			}				
+		}
+	}
+ 
+	    containerWindowType = {
+		name = "naval_doctrine_folder"
+		position = { x=0 y=47 }
+		size = { width = 100%% height = 100%% }
+		margin = { top = 13 left = 13 bottom = 24 right = 25}
+		drag_scroll = { left middle }
+		verticalScrollbar = "right_vertical_slider"
+		horizontalScrollbar = "bottom_horizontal_slider"
+		scroll_wheel_factor = 40
+
+		background = {
+			name = "Background"
+			quadTextureSprite ="GFX_tiled_window_2b_border"
+		}
+
+		containerWindowType = {
+			name = "size_filler"
+			position = { x=0 y=0 }
+			size = { width = 1565 height = 100% }
+		}
+
+		iconType = {
+			name ="dual_carrier_battle_group_bg"
+			spriteType = "GFX_dual_carrier_battle_group_bg"
+			position = { x=1542 y=33 }
+		}
+		
+		instantTextBoxType = { #双航母战斗群
+			name = "dual_carrier_battle_group_title"
+			position = { x = 1585 y = 35 }
+			textureFile = ""
+			font = "hoi_22tech"
+			borderSize = {x = 0 y = 4}
+			text = "TITLE_DUAL_CARRIER_BATTLE_GROUP"
+			maxWidth = 400
+			maxHeight = 122
+			format = center
+			Orientation = "UPPER_LEFT"
+		}
+		
+		instantTextBoxType = { #双航母战斗群
+			name = "dual_carrier_battle_group_desc"
+			position = { x = 1585 y = 70 }
+			textureFile = ""
+			font = "hoi_20b"
+			borderSize = {x = 0 y = 4}
+			text = "DUAL_CARRIER_BATTLE_GROUP_DESC"
+			maxWidth = 380
+			maxHeight = 122
+			format = center
+			Orientation = "UPPER_LEFT"
+		}
+		
+		gridboxtype = {
+			name = "Formation_Navigation_tree"
+			position = { x=1542 y=172 }
+			size = { width = 480 height = 1000 }
+			slotsize = { width=60 height= 60 }
+			format = "UP"
+			
+			background = {
+				name = "Background"
+				quadTextureSprite ="GFX_fullborder_tiled"
+				position = { x=0 y=-150 }					
+			}
+		}
+	}
+
+	    containerWindowType = {
+		name = "air_doctrine_folder"
+		position = { x=0 y=47 }
+		size = { width = 100%% height = 100%% }
+		margin = { top = 13 left = 13 bottom = 24 right = 25}
+		drag_scroll = { left middle }
+		verticalScrollbar = "right_vertical_slider"
+		horizontalScrollbar = "bottom_horizontal_slider"
+		scroll_wheel_factor = 40
+
+		background = {
+			name = "Background"
+			quadTextureSprite ="GFX_tiled_window_2b_border"
+		}
+
+		containerWindowType = {
+			name = "size_filler"
+			position = { x=0 y=0 }
+			size = { width = 1440 height = 1482 }	
+		}
+
+		iconType = {
+			name ="advanced_early_warning_aircraft_detection_bg"
+			spriteType = "GFX_advanced_early_warning_aircraft_detection_bg"
+			position = { x=1410 y=33 }
+			scale = 0.9
+		}
+		
+		instantTextBoxType = { #次世代综合空战体系
+			name = "advanced_early_warning_aircraft_detection_desc"
+			position = { x = 1425 y = 60 }
+			font = "hoi_20b"
+			borderSize = {x = 0 y = 4}
+			text = "NEXT_GENERATION_INTEGRATED_AIR_COMBAT_SYSTEM_DESC"
+			maxWidth = 380
+			maxHeight = 122
+			format = center
+			Orientation = "UPPER_LEFT"
+		}
+
+		instantTextBoxType = { #次世代综合空战体系
+			name = "next_generation_integrated_air_combat_system_title"
+			position = { x = 1425 y = 35 }
+			font = "hoi_22tech"
+			borderSize = {x = 0 y = 4}
+			text = "NEXT_GENERATION_INTEGRATED_AIR_COMBAT_SYSTEM"
+			maxWidth = 400
+			maxHeight = 122
+			format = center
+			Orientation = "UPPER_LEFT"
+		}
+
+		gridboxtype = { #次世代综合空战体系
+			#battlefield_support_tree Needs to be named after first tech (formation_flying)
+			name = "advanced_early_warning_aircraft_detection_tree"
+			position = { x=1400 y=172 }
+			size = { width = 427 height = 1335 }
+			slotsize = { width=60 height= 60 }
+			format = "UP"
+
+			background = {
+				name = "Background"
+				quadTextureSprite ="GFX_fullborder_tiled"
+				position = { x=0 y=-150 }					
+			}
+		}
+	}
+    }
+}

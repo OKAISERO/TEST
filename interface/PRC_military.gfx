@@ -1,0 +1,1593 @@
+spriteTypes = {
+#陆军学说
+	SpriteType = {
+		name = "GFX_Integrated_Information_and_Firepower_medium"
+		texturefile = "gfx/interface/technologies/Integrated_Information_and_Firepower.dds"
+		alwaystransparent = yes
+	}
+	SpriteType = {
+		name = "GFX_Comprehensive_Logistical_Support_medium"
+		texturefile = "gfx/interface/technologies/Comprehensive_Logistical_Support.dds"
+		alwaystransparent = yes
+	}
+	SpriteType = {
+		name = "GFX_Reform_of_the_Combined_Arms_Army_medium"
+		texturefile = "gfx/interface/technologies/Reform_of_the_Combined_Arms_Army.dds"
+		alwaystransparent = yes
+	}
+	SpriteType = {
+		name = "GFX_Concentrated_Penetration_medium"
+		texturefile = "gfx/interface/technologies/Concentrated_Penetration.dds"
+		alwaystransparent = yes
+	}
+	SpriteType = {
+		name = "GFX_Joint_Staff_medium"
+		texturefile = "gfx/interface/technologies/Joint_Staff.dds"
+		alwaystransparent = yes
+	}
+	SpriteType = {
+		name = "GFX_Precision_Air_Support_medium"
+		texturefile = "gfx/interface/technologies/Precision_Air_Support.dds"
+		alwaystransparent = yes
+	}
+	SpriteType = {
+		name = "GFX_Air_Ground_Integrated_Strike_medium"
+		texturefile = "gfx/interface/technologies/Air_Ground_Integrated_Strike.dds"
+		alwaystransparent = yes
+	}
+	SpriteType = {
+		name = "GFX_Armor_Breakthrough_medium"
+		texturefile = "gfx/interface/technologies/Armor_Breakthrough.dds"
+		alwaystransparent = yes
+	}
+	spriteType = {#背景
+		name = "GFX_Integrated_Information_and_Firepower_bg"
+		textureFile = "gfx/interface/Integrated_Information_and_Firepower_bg.dds"
+		alwaystransparent = yes		
+	}
+
+#海军学说
+	SpriteType = {
+		name = "GFX_Formation_Navigation_medium"
+		texturefile = "gfx/interface/technologies/Formation_Navigation.dds"
+		alwaystransparent = yes
+	}
+	SpriteType = {
+		name = "GFX_Stealth_Design_medium"
+		texturefile = "gfx/interface/technologies/Stealth_Design.dds"
+		alwaystransparent = yes
+	}
+	SpriteType = {
+		name = "GFX_Advanced_Radar_Systems_medium"
+		texturefile = "gfx/interface/technologies/Advanced_Radar_Systems.dds"
+		alwaystransparent = yes
+	}
+	SpriteType = {
+		name = "GFX_Dominance_of_Electromagnetic_Spectrum_at_Sea_medium"
+		texturefile = "gfx/interface/technologies/Dominance_of_Electromagnetic_Spectrum_at_Sea.dds"
+		alwaystransparent = yes
+	}
+	SpriteType = {
+		name = "GFX_Chinese_Aegis_medium"
+		texturefile = "gfx/interface/technologies/Chinese_Aegis.dds"
+		alwaystransparent = yes
+	}
+	SpriteType = {
+		name = "GFX_Arsenal_Ship_Offensive_medium"
+		texturefile = "gfx/interface/technologies/Arsenal_Ship_Offensive.dds"
+		alwaystransparent = yes
+	}
+	SpriteType = {
+		name = "GFX_Dual_Carrier_Coordination_Strike_medium"
+		texturefile = "gfx/interface/technologies/Dual_Carrier_Coordination_Strike.dds"
+		alwaystransparent = yes
+	}
+	SpriteType = {
+		name = "GFX_Advanced_Electromagnetic_Aircraft_Launch_System_medium"
+		texturefile = "gfx/interface/technologies/Advanced_Electromagnetic_Aircraft_Launch_System.dds"
+		alwaystransparent = yes
+	}
+	SpriteType = {
+		name = "GFX_Carrier_Based_Aviation_Training_medium"
+		texturefile = "gfx/interface/technologies/Carrier_Based_Aviation_Training.dds"
+		alwaystransparent = yes
+	}
+	spriteType = { #背景
+		name = "GFX_dual_carrier_battle_group_bg"
+		textureFile = "gfx/interface/dual_carrier_battle_group_bg.dds"
+		alwaystransparent = yes		
+	}
+
+#空军学说
+    SpriteType = {
+		name = "GFX_advanced_early_warning_aircraft_detection_medium"
+		texturefile = "gfx/interface/technologies/advanced_early_warning_aircraft_detection.dds"
+		alwaystransparent = yes
+	}
+	SpriteType = {
+		name = "GFX_Electronic_Warfare_Suppression_medium"
+		texturefile = "gfx/interface/technologies/Electronic_Warfare_Suppression.dds"
+		alwaystransparent = yes
+	}
+	SpriteType = {
+		name = "GFX_Simulation_Exercises_medium"
+		texturefile = "gfx/interface/technologies/Simulation_Exercises.dds"
+		alwaystransparent = yes
+	}
+	SpriteType = {
+		name = "GFX_Strike_Unmanned_Aerial_Vehicles_medium"
+		texturefile = "gfx/interface/technologies/Strike_Unmanned_Aerial_Vehicles.dds"
+		alwaystransparent = yes
+	}
+	SpriteType = {
+		name = "GFX_Comprehensive_Ground_Support_medium"
+		texturefile = "gfx/interface/technologies/Comprehensive_Ground_Support.dds"
+		alwaystransparent = yes
+	}
+	SpriteType = {
+		name = "GFX_Next_Generation_Fighter_Aircraft_medium"
+		texturefile = "gfx/interface/technologies/Next_Generation_Fighter_Aircraft.dds"
+		alwaystransparent = yes
+	}
+	SpriteType = {
+		name = "GFX_Stealth_Strategic_Bomber_medium"
+		texturefile = "gfx/interface/technologies/Stealth_Strategic_Bomber.dds"
+		alwaystransparent = yes
+	}
+	SpriteType = {
+		name = "GFX_Anti_Ship_Strike_Tactics_medium"
+		texturefile = "gfx/interface/technologies/Anti_Ship_Strike_Tactics.dds"
+		alwaystransparent = yes
+	}
+	spriteType = { #背景
+		name = "GFX_advanced_early_warning_aircraft_detection_bg"
+		textureFile = "gfx/interface/advanced_early_warning_aircraft_detection_bg.dds"
+		alwaystransparent = yes		
+	}
+#军改gui
+SpriteType = { #底板
+	name = "GFX_military_background"
+	texturefile = "gfx/interface/military/background.png"		
+}
+
+SpriteType = { #卓越雷达预警体系
+	name = "GFX_military_Early_Warning_System"
+	texturefile = "gfx/interface/military/Early_Warning_System.png"		
+}
+
+SpriteType = { #超世代战机计划
+	name = "GFX_military_Project_Advanced_Aircraft"
+	texturefile = "gfx/interface/military/Project_Advanced_Aircraft.png"		
+}
+
+SpriteType = { #无人机战争
+	name = "GFX_military_Project_trust_in_the_pilot_1"
+	texturefile = "gfx/interface/military/trust_in_the_pilot_1.png"		
+}
+
+SpriteType = { #全方位电子战体系
+	name = "GFX_military_Electronic_Warfare_System"
+	texturefile = "gfx/interface/military/Electronic_Warfare_System.png"		
+}
+
+SpriteType = { #无人机察打一体化
+	name = "GFX_military_integrated_Reconnaissance_Strike_UAV"
+	texturefile = "gfx/interface/military/integrated_Reconnaissance_Strike_UAV.png"		
+}
+
+SpriteType = { #武库舰计划
+	name = "GFX_military_resurrect_the_battleship_1"
+	texturefile = "gfx/interface/military/resurrect_the_battleship_1.png"		
+}
+
+SpriteType = { #精英海军陆战队
+	name = "GFX_military_rain_fire_from_above_1"
+	texturefile = "gfx/interface/military/rain_fire_from_above_1.png"		
+}
+
+SpriteType = { #强化航母打击
+	name = "GFX_military_carrier_primacy_1"
+	texturefile = "gfx/interface/military/carrier_primacy_1.png"		
+}
+
+SpriteType = { #先进两栖作战体系
+	name = "GFX_military_rain_fire_from_above_2"
+	texturefile = "gfx/interface/military/rain_fire_from_above_2.png"		
+}
+
+SpriteType = { #次世代战舰
+	name = "GFX_military_next_generation_warships_1"
+	texturefile = "gfx/interface/military/next_generation_warships_1.png"		
+}
+
+SpriteType = { #钢铁长城
+	name = "GFX_military_iron_great_wall"
+	texturefile = "gfx/interface/military/iron_great_wall.png"		
+}
+
+SpriteType = { #其疾如风
+	name = "GFX_military_mobile_warfare_nat_1"
+	texturefile = "gfx/interface/military/mobile_warfare_nat_1.png"		
+}
+
+SpriteType = { #瞄准实战，开始演习
+	name = "GFX_military_expand_the_thunder_gods_1"
+	texturefile = "gfx/interface/military/expand_the_thunder_gods_1.png"		
+}
+
+SpriteType = { #次时代陆军
+	name = "GFX_military_artillery_project_1"
+	texturefile = "gfx/interface/military/artillery_project_1.png"		
+}
+
+SpriteType = { #信火一体体系建设
+	name = "GFX_military_artillery_informatization"
+	texturefile = "gfx/interface/military/artillery_informatization.png"		
+}
+
+SpriteType = { #先进联勤保障体系
+	name = "GFX_military_advanced_joint_logistics_support_system"
+	texturefile = "gfx/interface/military/advanced_joint_logistics_support_system.png"		
+}
+
+SpriteType = { #军事卫星网络升级
+	name = "GFX_military_military_satellite_network_upgrade"
+	texturefile = "gfx/interface/military/military_satellite_network_upgrade.png"		
+}
+
+SpriteType = { #综合支援单位
+	name = "GFX_military_comprehensive_support_unit"
+	texturefile = "gfx/interface/military/comprehensive_support_unit.png"		
+}
+
+SpriteType = { #未来军队计划
+	name = "GFX_military_embrace_the_future_1"
+	texturefile = "gfx/interface/military/embrace_the_future_1.png"		
+}
+
+SpriteType = { #网络安全保障
+	name = "GFX_military_cybersecurity_assurance"
+	texturefile = "gfx/interface/military/cybersecurity_assurance.png"		
+}
+
+SpriteType = { #龙腾九天
+	name = "GFX_military_dragon_soaring_to_the_skies"
+	texturefile = "gfx/interface/military/dragon_soaring_to_the_skies.png"	
+	transparencecheck = yes	
+}
+SpriteType = { #空军军改完成
+	name = "GFX_military_dominate_the_skies_1"
+	texturefile = "gfx/interface/military/dominate_the_skies_1.png"	
+	transparencecheck = yes	
+}
+SpriteType = { #海军军改完成
+	name = "GFX_military_supremacy_above_and_below_waters_1"
+	texturefile = "gfx/interface/military/supremacy_above_and_below_waters_1.png"	
+	transparencecheck = yes	
+}
+SpriteType = { #陆军军改完成
+	name = "GFX_military_tank_primacy_nat_1"
+	texturefile = "gfx/interface/military/tank_primacy_nat_1.png"	
+	transparencecheck = yes	
+}
+SpriteType = { #战支军改完成
+	name = "GFX_military_unmovable_like_mountain_goodness_like_water"
+	texturefile = "gfx/interface/military/unmovable_like_mountain_goodness_like_water.png"	
+	transparencecheck = yes	
+}
+
+	#军改精神
+	spriteType = {
+		name = "GFX_idea_PRC_electronic_warfare_system_jamming"
+		texturefile = "gfx/interface/ideas/PRC/PRC_electronic_warfare_system_jamming.png"
+	}
+	spriteType = {
+		name = "GFX_idea_PRC_suborbital_vehicle_support"
+		texturefile = "gfx/interface/ideas/PRC/PRC_suborbital_vehicle_support.png"
+	}
+	spriteType = {
+		name = "GFX_idea_PRC_comprehensive_support_and_assurance_system"
+		texturefile = "gfx/interface/ideas/PRC/PRC_comprehensive_support_and_assurance_system.png"
+	}
+	spriteType = {
+		name = "GFX_idea_PRC_cyber_hacking_and_intrusion"
+		texturefile = "gfx/interface/ideas/PRC/PRC_cyber_hacking_and_intrusion.png"
+	}
+	spriteType = {
+		name = "GFX_idea_PRC_roar_of_dragon"
+		texturefile = "gfx/interface/ideas/PRC/PRC_roar_of_dragon.png"
+	}
+	spriteType = {
+		name = "GFX_idea_PRC_plaaf_dynamic"
+		texturefile = "gfx/interface/ideas/PRC/PRC_plaaf_dynamic.png"
+	}
+	spriteType = {
+		name = "GFX_idea_PRC_modern_joint_staff_department_idea"
+		texturefile = "gfx/interface/ideas/PRC/PRC_modern_joint_staff_department_idea.png"
+	}
+	
+	#军官团精神
+	spriteType = {
+		name = "GFX_idea_army_for_people"
+		texturefile = "gfx/interface/ideas/PRC/army_for_people.png"
+	}
+	spriteType = {
+		name = "GFX_idea_nervous_but_lively_idea"
+		texturefile = "gfx/interface/ideas/PRC/nervous_but_lively_idea.png"
+	}
+	spriteType = {
+		name = "GFX_idea_artillery_informatization"
+		texturefile = "gfx/interface/ideas/PRC/artillery_informatization_idea.png"
+	}
+	spriteType = {
+		name = "GFX_idea_dalian_navy"
+		texturefile = "gfx/interface/ideas/PRC/dalian_navy.png"
+	}
+	spriteType = {
+		name = "GFX_idea_marching_toward_the_deep_blue"
+		texturefile = "gfx/interface/ideas/PRC/marching_toward_the_deep_blue.png"
+	}
+	spriteType = {
+		name = "GFX_idea_dual_carrier_strike_group"
+		texturefile = "gfx/interface/ideas/PRC/dual_carrier_strike_group.png"
+	}
+	spriteType = {
+		name = "GFX_idea_development_of_next_generation_wind_tunnels"
+		texturefile = "gfx/interface/ideas/PRC/development_of_next_generation_wind_tunnels.png"
+	}
+	spriteType = {
+		name = "GFX_idea_outstanding_early_warning_aircraft_and_electronic_warfare_system"
+		texturefile = "gfx/interface/ideas/PRC/outstanding_early_warning_aircraft_and_electronic_warfare_system.png"
+	}
+
+
+SpriteType = { #人民军队为人民事件
+	name = "GFX_PRC_army_for_people_event"
+	texturefile = "gfx/event_pictures/PRC_army_for_people_event.png"
+}
+
+SpriteType = { #团结紧张，严肃活泼
+	name = "GFX_PRC_neverous_but_lively_event"
+	texturefile = "gfx/event_pictures/PRC_neverous_but_lively_event.png"
+}
+
+SpriteType = { #现代军改
+	name = "GFX_PRC_modern_military_reforms_event"
+	texturefile = "gfx/event_pictures/PRC_modern_military_reforms_event.png"
+}
+
+SpriteType = { #现代军改第二页
+	name = "GFX_PRC_modern_military_reforms_1_event"
+	texturefile = "gfx/event_pictures/PRC_modern_military_reforms_1_event.png"
+}
+
+SpriteType = { #雄鹰出击
+	name = "GFX_PRC_Sortie_Of_Eagle_event"
+	texturefile = "gfx/event_pictures/PRC_Sortie_Of_Eagle_event.png"
+}
+
+SpriteType = { #卓越雷达预警体系
+	name = "GFX_PRC_Early_Warning_System_event"
+	texturefile = "gfx/event_pictures/PRC_Early_Warning_System_event.png"
+}
+
+SpriteType = { #全方位电子战体系
+	name = "GFX_PRC_Electronic_Warfare_System_event"
+	texturefile = "gfx/event_pictures/PRC_Electronic_Warfare_System_event.png"
+}
+
+SpriteType = { #超世代战机计划
+	name = "GFX_PRC_Project_Advanced_Aircraft_event"
+	texturefile = "gfx/event_pictures/PRC_Project_Advanced_Aircraft_event.png"
+}
+
+SpriteType = { #飞机生产流水线
+	name = "GFX_PRC_streamline_aircraft_production_1_event"
+	texturefile = "gfx/event_pictures/PRC_streamline_aircraft_production_1_event.png"
+}
+
+SpriteType = { #无人机察打一体化
+	name = "GFX_PRC_trust_in_the_pilot_1_event"
+	texturefile = "gfx/event_pictures/PRC_trust_in_the_pilot_1_event.png"
+}
+
+SpriteType = { #无人机察打一体化
+	name = "GFX_PRC_integrated_Reconnaissance_Strike_UAV_event"
+	texturefile = "gfx/event_pictures/PRC_integrated_Reconnaissance_Strike_UAV_event.png"
+}
+
+SpriteType = { #统御天空，俯瞰大地第二页
+	name = "GFX_PRC_dominate_the_skies_1_event"
+	texturefile = "gfx/event_pictures/PRC_dominate_the_skies_1_event.png"
+}
+
+SpriteType = { #统御天空，俯瞰大地第三页
+	name = "GFX_PRC_dominate_the_skies_1_2_event"
+	texturefile = "gfx/event_pictures/PRC_dominate_the_skies_1_2_event.png"
+}
+
+SpriteType = { #先进海军
+	name = "GFX_PRC_a_blue_water_navy_1_event"
+	texturefile = "gfx/event_pictures/PRC_a_blue_water_navy_1_event.png"
+}
+
+SpriteType = {
+	name = "GFX_PRC_Jv_Zuo_1_event"
+	texturefile = "gfx/event_pictures/PRC_Jv_Zuo1.png"
+}
+
+SpriteType = {
+	name = "GFX_PRC_Jv_Zuo_2_event"
+	texturefile = "gfx/event_pictures/PRC_Jv_Zuo2.png"
+}
+
+SpriteType = {
+	name = "GFX_PRC_Jv_Zuo_3_event"
+	texturefile = "gfx/event_pictures/PRC_Jv_Zuo3.png"
+}
+
+
+SpriteType = { #武库舰计划
+	name = "GFX_PRC_resurrect_the_battleship_1_event"
+	texturefile = "gfx/event_pictures/PRC_resurrect_the_battleship_1_event.png"
+}
+
+SpriteType = { #强化航母打击 
+	name = "GFX_PRC_carrier_primacy_1_event"
+	texturefile = "gfx/event_pictures/PRC_carrier_primacy_1_event.png"
+}
+
+SpriteType = { #精英海军陆战队
+	name = "GFX_PRC_rain_fire_from_above_1_event"
+	texturefile = "gfx/event_pictures/PRC_rain_fire_from_above_1_event.png"
+}
+
+SpriteType = { #先进两栖作战体系
+	name = "GFX_PRC_rain_fire_from_above_2_event"
+	texturefile = "gfx/event_pictures/PRC_rain_fire_from_above_2_event.png"
+}
+
+SpriteType = { #重视海军生产
+	name = "GFX_PRC_increase_naval_production_1_event"
+	texturefile = "gfx/event_pictures/PRC_increase_naval_production_1_event.png"
+}
+
+SpriteType = { #次世代战舰
+	name = "GFX_PRC_next_generation_warships_1_event"
+	texturefile = "gfx/event_pictures/PRC_next_generation_warships_1_event.png"
+}
+
+SpriteType = { #海上海下，唯我独尊
+	name = "GFX_PRC_supremacy_above_and_below_waters_1_event"
+	texturefile = "gfx/event_pictures/PRC_supremacy_above_and_below_waters_1_event.png"
+}
+
+SpriteType = { #海上海下，唯我独尊
+	name = "GFX_PRC_supremacy_above_and_below_waters_1_2_event"
+	texturefile = "gfx/event_pictures/PRC_supremacy_above_and_below_waters_1_2_event.png"
+}
+
+
+SpriteType = { #合成化陆军
+	name = "GFX_PRC_modernized_army_event"
+	texturefile = "gfx/event_pictures/PRC_modernized_army_event.png"
+}
+
+SpriteType = { #合成化陆军
+	name = "GFX_PRC_modernized_army_1_event"
+	texturefile = "gfx/event_pictures/PRC_modernized_army_1_event.png"
+}
+
+
+SpriteType = { #钢铁长城
+	name = "GFX_PRC_iron_great_wall_event"
+	texturefile = "gfx/event_pictures/PRC_iron_great_wall_event.png"
+}
+
+SpriteType = { #其疾如风
+	name = "GFX_PRC_mobile_warfare_nat_1_event"
+	texturefile = "gfx/event_pictures/PRC_mobile_warfare_nat_1_event.png"
+}
+
+SpriteType = { #瞄准实战，开始演习
+	name = "GFX_PRC_expand_the_thunder_gods_1_1_event"
+	texturefile = "gfx/event_pictures/PRC_expand_the_thunder_gods_1_1_event.png"
+}
+
+SpriteType = { #瞄准实战，开始演习第二页
+	name = "GFX_PRC_expand_the_thunder_gods_1_2_event"
+	texturefile = "gfx/event_pictures/PRC_expand_the_thunder_gods_1_2_event.png"
+}
+
+SpriteType = { #瞄准实战，开始演习蓝赢
+	name = "GFX_PRC_expand_the_thunder_gods_1_3_event"
+	texturefile = "gfx/event_pictures/PRC_expand_the_thunder_gods_1_3_event.png"
+}
+
+SpriteType = { #瞄准实战，开始演习红赢
+	name = "GFX_PRC_expand_the_thunder_gods_1_4_event"
+	texturefile = "gfx/event_pictures/PRC_expand_the_thunder_gods_1_4_event.png"
+}
+
+SpriteType = { #将领再培训
+	name = "GFX_PRC_general_trait_1_event"
+	texturefile = "gfx/event_pictures/PRC_general_trait_1_event.png"
+}
+
+SpriteType = { #未来军队计划
+	name = "GFX_PRC_artillery_project_1_event"
+	texturefile = "gfx/event_pictures/PRC_artillery_project_1_event.png"
+}
+
+SpriteType = { #未来军队计划
+	name = "GFX_PRC_artillery_project_1_1_event"
+	texturefile = "gfx/event_pictures/PRC_artillery_project_1_1_event.png"
+}
+
+SpriteType = { #未来军队计划
+	name = "GFX_PRC_embrace_the_future_1_event"
+	texturefile = "gfx/event_pictures/PRC_embrace_the_future_1_event.png"
+}
+
+SpriteType = { #信火一体体系建设
+	name = "GFX_PRC_artillery_informatization_event"
+	texturefile = "gfx/event_pictures/PRC_artillery_informatization_event.png"
+}
+
+SpriteType = { #优质战士，钢铁洪流
+	name = "GFX_PRC_tank_primacy_nat_1_1_event"
+	texturefile = "gfx/event_pictures/PRC_tank_primacy_nat_1_1_event.png"
+}
+
+SpriteType = { #优质战士，钢铁洪流第二页
+	name = "GFX_PRC_tank_primacy_nat_1_2_event"
+	texturefile = "gfx/event_pictures/PRC_tank_primacy_nat_1_2_event.png"
+}
+
+SpriteType = { #战略支援部队改组
+	name = "GFX_PRC_reorganization_of_the_strategic_support_force_event"
+	texturefile = "gfx/event_pictures/PRC_reorganization_of_the_strategic_support_force_event.png"
+}
+
+SpriteType = { #先进联勤保障体系
+	name = "GFX_PRC_advanced_joint_logistics_support_system_event"
+	texturefile = "gfx/event_pictures/PRC_advanced_joint_logistics_support_system_event.png"
+}
+
+SpriteType = { #综合支援单位
+	name = "GFX_PRC_comprehensive_support_unit_event"
+	texturefile = "gfx/event_pictures/PRC_comprehensive_support_unit_event.png"
+}
+
+SpriteType = { #军事卫星网络升级
+	name = "GFX_PRC_military_satellite_network_upgrade_event"
+	texturefile = "gfx/event_pictures/PRC_military_satellite_network_upgrade_event.png"
+}
+
+SpriteType = { #数字化信息支援  (
+	name = "GFX_PRC_embrace_the_future_1_event"
+	texturefile = "gfx/event_pictures/PRC_embrace_the_future_1_event.png"
+}
+
+SpriteType = { #网络安全保障
+	name = "GFX_PRC_cybersecurity_assurance_event"
+	texturefile = "gfx/event_pictures/PRC_cybersecurity_assurance_event.png"
+}
+
+SpriteType = { #不动如山，上善若水
+	name = "GFX_PRC_unmovable_like_mountain_goodness_like_water_1_event"
+	texturefile = "gfx/event_pictures/PRC_unmovable_like_mountain_goodness_like_water_1_event.png"
+}
+
+SpriteType = { #不动如山，上善若水第二页
+	name = "GFX_PRC_unmovable_like_mountain_goodness_like_water_2_event"
+	texturefile = "gfx/event_pictures/PRC_unmovable_like_mountain_goodness_like_water_2_event.png"
+}
+
+SpriteType = { #三军一体化协同建设  （
+	name = "GFX_PRC_unmovable_like_mountain_goodness_like_water_2_event"
+	texturefile = "gfx/event_pictures/PRC_unmovable_like_mountain_goodness_like_water_2_event.png"
+}
+
+SpriteType = { #现代联合参谋部  （
+	name = "GFX_PRC_unmovable_like_mountain_goodness_like_water_2_event"
+	texturefile = "gfx/event_pictures/PRC_unmovable_like_mountain_goodness_like_water_2_event.png"
+}
+
+SpriteType = { #龙腾九天
+	name = "GFX_PRC_dragon_soaring_to_the_skies_event"
+	texturefile = "gfx/event_pictures/PRC_dragon_soaring_to_the_skies_event.png"
+}
+
+SpriteType = { #龙腾九天第二页
+	name = "GFX_PRC_dragon_soaring_to_the_skies_1_event"
+	texturefile = "gfx/event_pictures/PRC_dragon_soaring_to_the_skies_1_event.png"
+}
+
+SpriteType = { #侠炮
+	name = "GFX_artillery_260"
+	texturefile = "gfx/event_pictures/artillery_260.png"
+}
+#战略支援部队改组
+	spriteType = {
+			name = "GFX_china10032"
+			texturefile = "gfx/event_pictures/china10032.png"
+		}
+
+
+#雄鹰出击
+	spriteType = {
+			name = "GFX_china10004"
+			texturefile = "gfx/event_pictures/china10004.png"
+		}
+
+
+#先进海军
+	spriteType = {
+			name = "GFX_china10012"
+			texturefile = "gfx/event_pictures/china10012.png"
+		}
+
+
+#联合利剑
+	spriteType = {
+			name = "GFX_PRC_lianhelijian_event"
+			texturefile = "gfx/event_pictures/PRC_lianhelijian_event.png"
+		}
+
+
+#现代联合参谋部
+	spriteType = {
+			name = "GFX_PRC_modern_joint_staff_department_event"
+			texturefile = "gfx/event_pictures/PRC_modern_joint_staff_department_event.png"
+		}
+
+
+ #合成化陆军
+	spriteType = {
+			name = "GFX_china10020"
+			texturefile = "gfx/event_pictures/china10020.png"
+		}
+
+
+ #第三次古田会议
+	spriteType = {
+			name = "GFX_PRC_gutianhuiyi_event"
+			texturefile = "gfx/event_pictures/PRC_gutianhuiyi_event.png"
+		}
+
+	spriteType = {
+		name = "GFX_PRC_Chen_Xiangrong_event"
+		textureFile = "gfx/event_pictures/PRC_Chen_Xiangrong_event.png"
+	}
+}
+#军改
+spriteTypes = {
+	#军改国策
+	spriteType = { #人民军队为人民
+		name = "GFX_focus_PRC_pla_fight_for_people"
+		texturefile = "gfx/interface/goals/PRC/PRC_pla_fight_for_people.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_TNO_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_pla_fight_for_people.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_pla_fight_for_people.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_pla_fight_for_people.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	
+	spriteType = { #团结紧张、严肃活泼
+		name = "GFX_focus_PRC_nervous_but_lively"
+		texturefile = "gfx/interface/goals/PRC/PRC_nervous_but_lively.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_TNO_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_nervous_but_lively.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_nervous_but_lively.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_nervous_but_lively.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+
+	spriteType = { #雄鹰出击
+		name = "GFX_focus_PRC_Sortie_Of_Eagle"
+		texturefile = "gfx/interface/goals/PRC/PRC_Sortie_Of_Eagle.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_TNO_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_Sortie_Of_Eagle.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_Sortie_Of_Eagle.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_Sortie_Of_Eagle.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	
+	spriteType = { #卓越雷达系统
+		name = "GFX_focus_PRC_Early_Warning_System"
+		texturefile = "gfx/interface/goals/PRC/PRC_Early_Warning_System.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_TNO_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_Early_Warning_System.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_Early_Warning_System.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_Early_Warning_System.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	
+	spriteType = { #超世代战机计划
+		name = "GFX_focus_PRC_Project_Advanced_Aircraft"
+		texturefile = "gfx/interface/goals/PRC/PRC_Project_Advanced_Aircraft.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_TNO_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_Project_Advanced_Aircraft.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_Project_Advanced_Aircraft.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_Project_Advanced_Aircraft.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	
+	spriteType = { #全方位电子战系统
+		name = "GFX_focus_PRC_Electronic_Warfare_System"
+		texturefile = "gfx/interface/goals/PRC/PRC_Electronic_Warfare_System.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_TNO_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_Electronic_Warfare_System.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_Electronic_Warfare_System.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_Electronic_Warfare_System.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	
+	spriteType = { #无人机察打一体化
+		name = "GFX_focus_PRC_integrated_Reconnaissance_Strike_UAV"
+		texturefile = "gfx/interface/goals/PRC/PRC_integrated_Reconnaissance_Strike_UAV.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_TNO_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_integrated_Reconnaissance_Strike_UAV.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_integrated_Reconnaissance_Strike_UAV.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_integrated_Reconnaissance_Strike_UAV.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	
+	spriteType = { #精英海军陆战队
+		name = "GFX_focus_PRC_rain_fire_from_above"
+		texturefile = "gfx/interface/goals/PRC/PRC_rain_fire_from_above.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_TNO_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_rain_fire_from_above.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_rain_fire_from_above.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_rain_fire_from_above.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	
+	spriteType = { #先进两栖作战体系
+		name = "GFX_focus_PRC_rain_fire_from_above_1"
+		texturefile = "gfx/interface/goals/PRC/PRC_rain_fire_from_above_1.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_TNO_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_rain_fire_from_above_1.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_rain_fire_from_above_1.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_rain_fire_from_above_1.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	
+	spriteType = { #次世代战舰
+		name = "GFX_focus_PRC_next_generation_warships"
+		texturefile = "gfx/interface/goals/PRC/PRC_next_generation_warships.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_TNO_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_next_generation_warships.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_next_generation_warships.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_next_generation_warships.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	
+	spriteType = { #现代化陆军
+		name = "GFX_focus_PRC_modernized_army"
+		texturefile = "gfx/interface/goals/PRC/PRC_modernized_army.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_TNO_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_modernized_army.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_modernized_army.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_modernized_army.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	
+	spriteType = { #次时代陆军
+		name = "GFX_focus_PRC_artillery_project"
+		texturefile = "gfx/interface/goals/PRC/PRC_artillery_project.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_TNO_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_artillery_project.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_artillery_project.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_artillery_project.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	
+	spriteType = { #将领再培训
+		name = "GFX_focus_PRC_general_trait"
+		texturefile = "gfx/interface/goals/PRC/PRC_general_trait.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_TNO_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_general_trait.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_general_trait.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_general_trait.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	
+	spriteType = { #信火一体体系建设
+		name = "GFX_focus_PRC_artillery_informatization"
+		texturefile = "gfx/interface/goals/PRC/PRC_artillery_informatization.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_artillery_informatization_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_artillery_informatization.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_artillery_informatization.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_artillery_informatization.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	spriteType = { #战略支援部队改组
+		name = "GFX_focus_PRC_reorganization_of_the_strategic_support_force"
+		texturefile = "gfx/interface/goals/PRC/PRC_reorganization_of_the_strategic_support_force.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_reorganization_of_the_strategic_support_force_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_reorganization_of_the_strategic_support_force.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_reorganization_of_the_strategic_support_force.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_reorganization_of_the_strategic_support_force.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	spriteType = { #先进联勤保障体系
+		name = "GFX_focus_PRC_advanced_joint_logistics_support_system"
+		texturefile = "gfx/interface/goals/PRC/PRC_advanced_joint_logistics_support_system.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_advanced_joint_logistics_support_system_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_advanced_joint_logistics_support_system.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_advanced_joint_logistics_support_system.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_advanced_joint_logistics_support_system.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	spriteType = { #军事卫星网络升级
+		name = "GFX_focus_PRC_military_satellite_network_upgrade"
+		texturefile = "gfx/interface/goals/PRC/PRC_military_satellite_network_upgrade.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_military_satellite_network_upgrade_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_military_satellite_network_upgrade.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_military_satellite_network_upgrade.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_military_satellite_network_upgrade.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	spriteType = { #数字化信息支援
+		name = "GFX_focus_PRC_digital_information_support"
+		texturefile = "gfx/interface/goals/PRC/PRC_digital_information_support.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_digital_information_support_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_digital_information_support.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_digital_information_support.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_digital_information_support.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	spriteType = { #综合支援单位
+		name = "GFX_focus_PRC_comprehensive_support_unit"
+		texturefile = "gfx/interface/goals/PRC/PRC_comprehensive_support_unit.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_comprehensive_support_unit_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_comprehensive_support_unit.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_comprehensive_support_unit.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_comprehensive_support_unit.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	spriteType = { #未来军队计划
+		name = "GFX_focus_PRC_embrace_the_future_1"
+		texturefile = "gfx/interface/goals/PRC/PRC_embrace_the_future_1.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_embrace_the_future_1_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_embrace_the_future_1.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_embrace_the_future_1.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_embrace_the_future_1.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	spriteType = { #网络安全保障
+		name = "GFX_focus_PRC_cybersecurity_assurance"
+		texturefile = "gfx/interface/goals/PRC/PRC_cybersecurity_assurance.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_cybersecurity_assurance_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_cybersecurity_assurance.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_cybersecurity_assurance.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_cybersecurity_assurance.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	spriteType = { #不动如山，上善若水
+		name = "GFX_focus_PRC_unmovable_like_mountain_goodness_like_water"
+		texturefile = "gfx/interface/goals/PRC/PRC_unmovable_like_mountain_goodness_like_water.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_unmovable_like_mountain_goodness_like_water_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_unmovable_like_mountain_goodness_like_water.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_unmovable_like_mountain_goodness_like_water.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_unmovable_like_mountain_goodness_like_water.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	spriteType = { #三军一体化协同建设
+		name = "GFX_focus_PRC_integrated_joint_construction_of_the_three_services"
+		texturefile = "gfx/interface/goals/PRC/PRC_integrated_joint_construction_of_the_three_services.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_integrated_joint_construction_of_the_three_services_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_integrated_joint_construction_of_the_three_services.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_integrated_joint_construction_of_the_three_services.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_integrated_joint_construction_of_the_three_services.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	spriteType = { #现代联合参谋部
+		name = "GFX_focus_PRC_modern_joint_staff_department"
+		texturefile = "gfx/interface/goals/PRC/PRC_modern_joint_staff_department.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_modern_joint_staff_department_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_modern_joint_staff_department.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_modern_joint_staff_department.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_modern_joint_staff_department.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	spriteType = { #龙腾九天
+		name = "GFX_focus_PRC_dragon_soaring_to_the_skies"
+		texturefile = "gfx/interface/goals/PRC/PRC_dragon_soaring_to_the_skies.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_dragon_soaring_to_the_skies_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_dragon_soaring_to_the_skies.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_dragon_soaring_to_the_skies.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_dragon_soaring_to_the_skies.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+}
+#新添配件
+	spriteTypes = {
+		spriteType = {
+			name = "GFX_EMI_next_generation_radar_system"
+			textureFile = "gfx/interface/equipmentdesigner/planes/modules/airplane_next_generation_radar_system_icon.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EMI_radio_navigation_3"
+			textureFile = "gfx/interface/equipmentdesigner/planes/modules/airplane_next_generation_frame_icon.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EMI_advanced_electronic_war_system"
+			textureFile = "gfx/interface/equipmentdesigner/planes/modules/airplane_advanced_electronic_war_system_icon.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EMI_next_generation_photoelectricity_locking_system"
+			textureFile = "gfx/interface/equipmentdesigner/planes/modules/airplane_next_generation_photoelectricity_locking_system_icon.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_EMI_next_generation_avionics_system"
+			textureFile = "gfx/interface/equipmentdesigner/planes/modules/airplane_next_generation_avionics_system_icon.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_SMI_ship_phased_array_radar"
+			textureFile = "gfx/interface/equipmentdesigner/naval/modules/ship_phased_array_radar_icon.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_SMI_carrier_ship_nuclear_engine_1"
+			textureFile = "gfx/interface/equipmentdesigner/naval/modules/ship_nuclear_engine_1_icon.png"
+			legacy_lazy_load = no
+		}
+    }

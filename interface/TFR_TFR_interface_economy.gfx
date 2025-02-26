@@ -1,0 +1,7 @@
+spriteTypes = {	
+	spriteType = {
+		name = "GFX_socialist_market"
+		texturefile = "gfx/interface/ideas/ZZZ_economy_type/ZZZ_socialist_market.png"
+		legacy_lazy_load = no
+	}
+}

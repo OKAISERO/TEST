@@ -1,0 +1,7 @@
+spriteTypes = {
+    spriteType = {
+        name = GFX_PRC_glory_the_great_scientist_banner
+        texturefile = "gfx/interface/texticons/banners/PRC/PRC/PRC_glory_the_great_scientist_banner.png"
+        legacy_lazy_load = no
+    }
+}

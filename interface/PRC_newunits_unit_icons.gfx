@@ -1,0 +1,137 @@
+spriteTypes = {	
+
+########################## Custom Units - Large #####################################
+
+	spriteType = {
+		name = "GFX_unit_PLA_heavy_sp_artillery_icon_medium"
+		texturefile = gfx/interface/counters/divisions_large/unit_PLA_heavy_sp_artillery_icon.dds
+		noOfFrames = 2
+	}
+
+	spriteType = {
+		name = "GFX_unit_PLA_unmanned_combat_unit_support_company_icon_medium"
+		texturefile = "gfx/interface/counters/divisions_large/unit_PLA_unmanned_combat_unit_support_company_icon.dds"
+		noOfFrames = 2
+	}
+
+	spriteType = {
+		name = "GFX_unit_UAV_support_team_icon_medium"
+		texturefile = "gfx/interface/counters/divisions_large/unit_UAV_support_team_icon.dds"
+		noOfFrames = 2
+	}
+
+	spriteType = {
+		name = "GFX_unit_cooking_squad_icon_medium"
+		texturefile = "gfx/interface/counters/divisions_large/unit_cooking_squad_icon.dds"
+		noOfFrames = 2
+	}
+
+	spriteType = {
+		name = "GFX_unit_joint_logistics_support_company_icon_medium"
+		texturefile = "gfx/interface/counters/divisions_large/unit_joint_logistics_support_company_icon.dds"
+		noOfFrames = 2
+	}
+
+########################## custom Units - small ##########################
+
+	spriteType = {
+		name = "GFX_unit_PLA_heavy_sp_artillery_icon"
+		texturefile = "gfx/interface/counters/divisions_small/onmap_unit_PLA_heavy_sp_artillery_icon.dds"
+		noOfFrames = 2
+	}
+
+	spriteType = {
+		name = "GFX_unit_PLA_unmanned_combat_unit_support_company_icon"
+		texturefile = "gfx/interface/counters/divisions_small/onmap_unit_PLA_unmanned_combat_unit_support_company_icon.dds"
+		noOfFrames = 2
+	}
+
+	spriteType = {
+		name = "GFX_unit_UAV_support_team_icon"
+		texturefile = "gfx/interface/counters/divisions_small/onmap_unit_UAV_support_team_icon.dds"
+		noOfFrames = 2
+	}
+
+	spriteType = {
+		name = "GFX_unit_cooking_squad_icon"
+		texturefile = "gfx/interface/counters/divisions_small/onmap_unit_cooking_squad_icon.dds"
+		noOfFrames = 2
+	}
+
+	spriteType = {
+		name = "GFX_unit_joint_logistics_support_company_icon"
+		texturefile = "gfx/interface/counters/divisions_small/onmap_unit_joint_logistics_support_company_icon.dds"
+		noOfFrames = 2
+	}
+
+
+########################## text icons - NATO ##########################
+
+	spriteType = {
+		name = "GFX_nato_unit_PLA_heavy_sp_artillery_icon_white"
+		texturefile = "gfx/texticons/nato_unit_PLA_heavy_sp_artillery_icon.dds"
+		noOfFrames = 2
+	}
+
+	spriteType = {
+		name = "GFX_nato_unit_PLA_unmanned_combat_unit_support_company_icon_white"
+		texturefile = "gfx/texticons/nato_unit_PLA_unmanned_combat_unit_support_company_icon.dds"
+		noOfFrames = 2
+	}
+
+	spriteType = {
+		name = "GFX_nato_unit_UAV_support_team_icon_white"
+		texturefile = "gfx/texticons/nato_unit_UAV_support_team_icon.dds"
+		noOfFrames = 2
+	}
+
+	spriteType = {
+		name = "GFX_nato_unit_joint_logistics_support_company_icon_white"
+		texturefile = "gfx/texticons/nato_unit_joint_logistics_support_company_icon.dds"
+		noOfFrames = 2
+	}
+
+	spriteType = {
+		name = "GFX_nato_unit_PLA_heavy_sp_artillery_icon_white"
+		texturefile = "gfx/texticons/nato_unit_PLA_heavy_sp_artillery_icon.dds"
+		noOfFrames = 2
+	}
+
+########################## text icons - RTS ##########################
+
+	spriteType = {
+		name = "GFX_unit_PLA_heavy_sp_artillery_icon_small"
+		texturefile = "gfx/texticons/unit_PLA_heavy_sp_artillery_icon_small.dds"
+		legacy_lazy_load = no
+		noOfFrames = 2		
+	}
+
+	spriteType = {
+		name = "GFX_unit_PLA_unmanned_combat_unit_support_company_icon_small"
+		texturefile = "gfx/texticons/unit_PLA_unmanned_combat_unit_support_company_icon_small.dds"
+		legacy_lazy_load = no
+		noOfFrames = 2		
+	}
+
+	spriteType = {
+		name = "GFX_unit_UAV_support_team_icon_small"
+		texturefile = "gfx/texticons/unit_UAV_support_team_icon_small.dds"
+		legacy_lazy_load = no
+		noOfFrames = 2		
+	}
+
+	spriteType = {
+		name = "GFX_unit_cooking_squad_icon_small"
+		texturefile = "gfx/texticons/unit_cooking_squad_icon_small.dds"
+		legacy_lazy_load = no
+		noOfFrames = 2		
+	}
+
+	spriteType = {
+		name = "GFX_unit_joint_logistics_support_company_icon_small"
+		texturefile = "gfx/texticons/unit_joint_logistics_support_company_icon_small.dds"
+		legacy_lazy_load = no
+		noOfFrames = 2		
+	}
+
+}

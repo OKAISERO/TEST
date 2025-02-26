@@ -1,0 +1,153 @@
+spriteTypes = {
+    #小护
+    SpriteType = {
+        name = "GFX_PRC_advanced_ship_hull_light_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/059B.png"
+    }
+    SpriteType = {
+        name = "GFX_PRC_improved_ship_hull_light_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/059.png"
+    }
+    SpriteType = {
+        name = "GFX_PRC_basic_ship_hull_light_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/054B.png"
+    }
+    SpriteType = {
+        name = "GFX_PRC_early_ship_hull_light_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/054A.png"
+    }
+    #驱逐
+    SpriteType = {
+        name = "GFX_PRC_advanced_ship_hull_cruiser_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/060.png"
+    }
+    SpriteType = {
+        name = "GFX_PRC_improved_ship_hull_cruiser_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/052DM.png"
+    }
+    SpriteType = {
+        name = "GFX_PRC_basic_ship_hull_cruiser_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/052C.png"
+    }
+    SpriteType = {
+        name = "GFX_PRC_early_ship_hull_cruiser_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/052.png"
+    }
+    #导巡
+    SpriteType = {
+        name = "GFX_PRC_advanced_ship_hull_heavy_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/057.png"
+    }
+    SpriteType = {
+        name = "GFX_PRC_improved_ship_hull_heavy_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/055A.png"
+    }
+    SpriteType = {
+        name = "GFX_PRC_basic_ship_hull_heavy_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/055.png"
+    }
+    SpriteType = {
+        name = "GFX_PRC_early_ship_hull_heavy_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/Linxian.png"
+    }
+    #航母
+    SpriteType = {
+        name = "GFX_PRC_advanced_ship_hull_carrier_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/005.png"
+    }
+    SpriteType = {
+        name = "GFX_PRC_improved_ship_hull_carrier_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/004.png"
+    }
+    SpriteType = {
+        name = "GFX_PRC_basic_ship_hull_carrier_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/003.png"
+    }
+    SpriteType = {
+        name = "GFX_PRC_early_ship_hull_carrier_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/002.png"
+    }
+
+    SpriteType = {
+        name = "GFX_PRC_075_carrier_medium"
+        texturefile = "gfx/interface/technologies/ships/075.png"
+    }
+    SpriteType = {
+        name = "GFX_PRC_076_carrier_medium"
+        texturefile = "gfx/interface/technologies/ships/076.png"
+    }
+
+	SpriteType = {	
+		name = "GFX_PRC_ship_hull_carrier_conversion_ca_medium"
+		texturefile = "gfx/interface/technologies/ships/075.png"
+	}
+	SpriteType = {	
+		name = "GFX_PRC_ship_hull_carrier_conversion_ca2_medium"
+		texturefile = "gfx/interface/technologies/ships/076.png"
+	}
+	
+	SpriteType = {	
+		name = "GFX_PRC_helicopter_carrier_1_medium" 
+		texturefile = "gfx/interface/technologies/ships/075.png"
+	}
+	SpriteType = {	
+		name = "GFX_PRC_helicopter_carrier_2_medium"
+		texturefile = "gfx/interface/technologies/ships/076.png"
+	}
+    #常规潜艇
+    SpriteType = {
+        name = "GFX_PRC_advanced_ship_hull_submarine_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/041.png"
+    }
+    SpriteType = {
+        name = "GFX_PRC_improved_ship_hull_submarine_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/039C.png"
+    }
+    SpriteType = {
+        name = "GFX_PRC_basic_ship_hull_submarine_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/039B.png"
+    }
+    SpriteType = {
+        name = "GFX_PRC_early_ship_hull_submarine_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/039.png"
+    }
+    #核潜艇
+    SpriteType = {
+        name = "GFX_PRC_advanced_ship_hull_nuclear_submarine_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/096.png"
+    }
+    SpriteType = {
+        name = "GFX_PRC_early_ship_hull_nuclear_submarine_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/094.png"
+    }
+
+    ##################
+    ###Fuck Paradox###
+    ##################
+
+    SpriteType = {
+        name = "GFX_PRC_ship_hull_cruiser_4_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/060.png"
+    }
+    SpriteType = {
+        name = "GFX_PRC_ship_hull_cruiser_3_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/052DM.png"
+    }
+    SpriteType = {
+        name = "GFX_PRC_ship_hull_cruiser_2_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/052C.png"
+    }
+    SpriteType = {
+        name = "GFX_PRC_ship_hull_cruiser_1_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/052.png"
+    }
+
+    spriteType = {
+        name = "GFX_PRC_ship_hull_super_heavy_2_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/081A.png"
+    }
+    spriteType = {
+        name = "GFX_PRC_ship_hull_super_heavy_1_medium"
+        texturefile = "gfx/interface/equipmentdesigner/naval/PRC/081.png"
+    }
+}

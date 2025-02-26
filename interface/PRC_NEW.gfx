@@ -1,0 +1,1276 @@
+spriteTypes = {
+	spriteType = {
+			name = "GFX_idea_PRC_communist_party_china"
+			texturefile = "gfx/interface/ideas/PRC/PRC_communist_party_china.png"
+	}
+	spriteType = {
+			name = "GFX_idea_PRC_national_peoples_congress"
+			texturefile = "gfx/interface/ideas/PRC/PRC_national_peoples_congress.png"
+	}
+	spriteType = {
+			name = "GFX_ideology_mzdsx"
+			texturefile = "gfx/interface/ideologies/mzdsx.png"
+		}
+	spriteType = {
+			name = "GFX_ideology_PRC_mzdsx"
+			texturefile = "gfx/interface/ideologies/mzdsx_PRC.png"
+		}
+	spriteType = {
+			name = "GFX_ideology_marxism"
+			texturefile = "gfx/interface/ideologies/marxism.png"
+		}
+	spriteType = {
+			name = "GFX_ideology_PRC_marxism"
+			texturefile = "gfx/interface/ideologies/marxism_PRC.png"
+		}
+	spriteType = {
+			name = "GFX_ideology_PRC_xiism"
+			texturefile = "gfx/interface/ideologies/xijinpingism.png"
+		}
+	spriteType = {
+			name = "GFX_china_6000"
+			texturefile = "gfx/event_pictures/china_6000.png"
+		}
+	spriteType = {
+			name = "GFX_china_flag"
+			texturefile = "gfx/event_pictures/chinese_flag.dds"
+		}
+	spriteType = {
+			name = "GFX_weiguozhujian"
+			texturefile = "gfx/event_pictures/weiguo_zhujian.png"
+		}
+	spriteType = {
+			name = "GFX_jiang_zemin_6005"
+			texturefile = "gfx/event_pictures/jiang_zemin6005.png"
+		}
+	spriteType = {
+		name = "GFX_TFR_PRC_jingguoshenshe_event"
+		textureFile = "gfx/event_pictures/TFR_PRC_jingguoshenshe_event.png"
+	}
+	spriteType = {
+		name = "GFX_PRC_trench_event"
+		textureFile = "gfx/event_pictures/PRC_trench_event.png"
+	}
+	spriteType = {
+		name = "GFX_PRC_Chen_Xiangrong_event"
+		textureFile = "gfx/event_pictures/PRC_Chen_Xiangrong_event.png"
+	}
+	spriteType = {
+		name = "GFX_PRC_For_China_event"
+		textureFile = "gfx/event_pictures/PRC_For_China_event.png"
+	}
+	spriteType = {
+		name = "GFX_PRC_Tibet_pla_event"
+		textureFile = "gfx/event_pictures/PRC_Tibet_pla_event.png"
+	}
+	spriteType = {
+		name = "GFX_PRC_Tibet_pla_2_event"
+		textureFile = "gfx/event_pictures/PRC_Tibet_pla_event2.png"
+	}
+#装备
+	SpriteType = {
+		name = "GFX_PRC_train_equipment_medium"
+		texturefile = "gfx/interface/technologies/freight_train_equipment_1.png"
+	}	
+	SpriteType = {
+		name = "GFX_PRC_train_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/freight_train_equipment_1.png"
+	}	
+	SpriteType = {
+		name = "GFX_PRC_train_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/freight_train_equipment_1.png"
+	}	
+	SpriteType = {
+		name = "GFX_PRC_train_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/freight_train_equipment_1.png"
+	}
+}
+
+
+spriteTypes = {
+	spriteType = {
+			name = "GFX_focus_cizhixin"
+			texturefile = "gfx/interface/goals/PRC/cizhixin.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_cizhixin_shine"
+	texturefile = "gfx/interface/goals/PRC/cizhixin.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/cizhixin.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/cizhixin.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy_lazy_load = no
+	}
+	
+	spriteType = {
+			name = "GFX_focus_PRC_secure_south_eastern_asia"
+			texturefile = "gfx/interface/goals/PRC/PRC_secure_south_eastern_asia.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_secure_south_eastern_asia_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_secure_south_eastern_asia.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_secure_south_eastern_asia.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_secure_south_eastern_asia.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	
+	
+	spriteType = {
+			name = "GFX_focus_PRC_Unsucceed_Thing"
+			texturefile = "gfx/interface/goals/PRC/PRC_Unsucceed_Thing.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_Unsucceed_Thing_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_Unsucceed_Thing.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_Unsucceed_Thing.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_Unsucceed_Thing.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	
+	spriteType = {
+			name = "GFX_focus_PRC_rescure_ASEAN"
+			texturefile = "gfx/interface/goals/PRC/PRC_rescure_ASEAN.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_rescure_ASEAN_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_rescure_ASEAN.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_rescure_ASEAN.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_rescure_ASEAN.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	
+		spriteType = {
+			name = "GFX_focus_PRC_Regain_Mongolia"
+			texturefile = "gfx/interface/goals/PRC/PRC_Regain_Mongolia.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_Regain_Mongolia_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_Regain_Mongolia.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_Regain_Mongolia.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_Regain_Mongolia.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}	
+	
+	spriteType = {
+		name = "GFX_focus_PRC_Lockdown_PDO"
+		texturefile = "gfx/interface/goals/PRC/PRC_Lockdown_PDO.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_Unsucceed_Thing_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_Lockdown_PDO.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_Lockdown_PDO.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_Lockdown_PDO.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	
+	spriteType = {
+		name = "GFX_focus_PRC_Secret_Sabotage"
+		texturefile = "gfx/interface/goals/PRC/PRC_Secret_Sabotage.png"
+		}
+	SpriteType = {
+	name = "GFX_focus_PRC_Secret_Sabotage_shine"
+	texturefile = "gfx/interface/goals/PRC/PRC_Secret_Sabotage.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_Secret_Sabotage.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_Secret_Sabotage.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	
+	}
+	
+	spriteType = {
+		name = "GFX_focus_PRC_TNO"
+		texturefile = "gfx/interface/goals/PRC/PRC_TNO.png"
+		}
+	SpriteType = {
+		name = "GFX_focus_PRC_TNO_shine"
+		texturefile = "gfx/interface/goals/PRC/PRC_TNO.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/PRC/PRC_TNO.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+		animation = {
+			animationmaskfile = "gfx/interface/goals/PRC/PRC_TNO.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+	}
+	
+	SpriteType = {
+		name = "GFX_focus_PRC_Chinese_Begonia"
+		texturefile = "gfx/interface/goals/PRC/PRC_Chinese_Begonia.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_PRC_Chinese_Begonia_shine"
+		texturefile = "gfx/interface/goals/PRC/PRC_Chinese_Begonia.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/PRC/PRC_Chinese_Begonia.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+		animation = {
+			animationmaskfile = "gfx/interface/goals/PRC/PRC_Chinese_Begonia.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+	}
+	
+	
+	SpriteType = {
+		name = "GFX_focus_PRC_eadi_command_system"
+		texturefile = "gfx/interface/goals/PRC/PRC_eadi_command_system.png"
+		legacy_lazy_load = yes
+	}
+	SpriteType = {
+		name = "GFX_focus_PRC_eadi_command_system_shine"
+		texturefile = "gfx/interface/goals/PRC/PRC_eadi_command_system.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/PRC/PRC_eadi_command_system.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+		animation = {
+			animationmaskfile = "gfx/interface/goals/PRC/PRC_eadi_command_system.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+	}
+
+	SpriteType = {
+		name = "GFX_focus_PRC_block_pdo"
+		texturefile = "gfx/interface/goals/PRC/PRC_block_pdo.png"
+	}
+	SpriteType = {
+	name = "GFX_focus_PRC_block_pdo"
+	texturefile = "gfx/interface/goals/PRC/PRC_block_pdo.png"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_block_pdo.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/PRC/PRC_block_pdo.png"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+}
+
+	SpriteType = {
+		name = "GFX_focus_PRC_Formulating_war_policies1"
+		texturefile = "gfx/interface/goals/PRC/PRC_Formulating_war_policies1.png"	
+	}
+	SpriteType = {
+		name = "GFX_focus_PRC_block_pdo"
+		texturefile = "gfx/interface/goals/PRC/PRC_block_pdo.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/PRC/PRC_block_pdo.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+		animation = {
+			animationmaskfile = "gfx/interface/goals/PRC/PRC_block_pdo.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+	}
+
+	SpriteType = {
+		name = "GFX_focus_PRC_recovery_taiwan"
+		texturefile = "gfx/interface/goals/PRC/PRC_recovery_taiwan.png"	
+	}
+	SpriteType = {
+		name = "GFX_focus_PRC_recovery_taiwan"
+		texturefile = "gfx/interface/goals/PRC/PRC_recovery_taiwan.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/PRC/PRC_recovery_taiwan.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+		animation = {
+			animationmaskfile = "gfx/interface/goals/PRC/PRC_recovery_taiwan.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+	}
+
+	SpriteType = {
+		name = "GFX_focus_PRC_judgement"
+		texturefile = "gfx/interface/goals/PRC/PRC_judgement.png"	
+	}
+	SpriteType = {
+		name = "GFX_focus_PRC_judgement"
+		texturefile = "gfx/interface/goals/PRC/PRC_judgement.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/PRC/PRC_judgement.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+		animation = {
+			animationmaskfile = "gfx/interface/goals/PRC/PRC_judgement.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+	}
+
+	SpriteType = {
+		name = "GFX_focus_PRC_anti_secession"
+		texturefile = "gfx/interface/goals/PRC/PRC_anti_secession.png"	
+	}
+	SpriteType = {
+		name = "GFX_focus_PRC_anti_secession"
+		texturefile = "gfx/interface/goals/PRC/PRC_anti_secession.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/PRC/PRC_anti_secession.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+		animation = {
+			animationmaskfile = "gfx/interface/goals/PRC/PRC_anti_secession.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+	}
+
+
+
+	SpriteType = {
+		name = "GFX_idea_PRK_Chosen_Reform"
+		texturefile = "gfx/interface/ideas/PRK/PRK_Chosen_Reform.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_ETH_total_companion"
+		texturefile = "gfx/interface/ideas/ETH/ETH_total_companion.png"
+	}
+
+	SpriteType = {
+		name = GFX_modifiers_PRC_mongolia
+		texturefile = "gfx/interface/ideas/PRC/PRC_mongolia.png"
+	}
+
+	spriteType = {
+		name = "GFX_idea_JAP_chinese_sanctions"
+		texturefile = "gfx/interface/ideas/JAP/JAP_chinese_sanctions.png"
+		legacy_lazy_load = yes
+	}
+
+	spriteType = {
+		name = "GFX_idea_JAP_chinese_spy"
+		texturefile = "gfx/interface/ideas/JAP/JAP_chinese_spy.png"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_PRC_security_bureau"
+		texturefile = "gfx/interface/ideas/PRC/PRC_security_bureau.png"
+	}
+
+	spriteType = {
+		name = "GFX_idea_PRC_Rapid_Deploy"
+		texturefile = "gfx/interface/ideas/PRC/PRC_Rapid_Deploy.png"
+	}
+
+	spriteType = {
+		name = "GFX_idea_eadi_command_sys"
+		texturefile = "gfx/interface/ideas/PRC/eadi_command_sys.png"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_eadi_modernized_army"
+		texturefile = "gfx/interface/ideas/PRC/eadi_modernized_army.png"
+	}
+
+	spriteType = {
+		name = "GFX_idea_RAJ_kashmir_road"
+		texturefile = "gfx/interface/ideas/RAJ/RAJ_kashmir_road.png"
+	}
+	spriteType = {
+		name = "GFX_idea_ETH_total_embargo"
+		texturefile = "gfx/interface/ideas/JAP/ETH_total_embargo.png"
+	}
+	spriteType = {
+		name = "GFX_PRC_news_event"
+		textureFile = "gfx/event_pictures/PRC_news_event.png"
+	}
+	spriteType = {
+		name = "GFX_PRC_dorm_event"
+		textureFile = "gfx/event_pictures/PRC_dorm_event.png"
+	}
+	spriteType = {
+		name = "GFX_news_event_jap_nationlist"
+		textureFile = "gfx/event_pictures/news_event_jap_nationlist.png"
+	}
+	
+}
+
+
+
+		##铅球修改##
+spriteTypes = {
+	SpriteType = {	
+		name = "GFX_956E"
+		texturefile = "gfx/interface/equipmentdesigner/naval/PRC/Linxian.png"
+	}
+	SpriteType = {	
+		name = "GFX_PRC_052"
+		texturefile = "gfx/interface/equipmentdesigner/naval/PRC/DDG2.dds"
+	}
+	SpriteType = {	
+		name = "GFX_PRC_055"
+		texturefile = "gfx/interface/equipmentdesigner/naval/PRC/CA3.dds"
+	}
+	SpriteType = {	
+		name = "GFX_PRC_051C"
+		texturefile = "gfx/interface/equipmentdesigner/naval/PRC/DDG3.dds"
+	}
+	SpriteType = {	
+		name = "GFX_PRC_052D"
+		texturefile = "gfx/interface/equipmentdesigner/naval/PRC/DDG6.dds"
+	}
+	SpriteType = {	
+		name = "GFX_PRC_destroyer_3"
+		texturefile = "gfx/interface/equipmentdesigner/naval/PRC/DDG8.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRC_053"
+		texturefile = "gfx/interface/equipmentdesigner/naval/PRC/F2.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRC_054"
+		texturefile = "gfx/interface/equipmentdesigner/naval/PRC/F4.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRC_054B"
+		texturefile = "gfx/interface/equipmentdesigner/naval/PRC/F5.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRC_051"
+		texturefile = "gfx/interface/equipmentdesigner/naval/PRC/DDG1.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRC_056"
+		texturefile = "gfx/interface/equipmentdesigner/naval/PRC/F3.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRC_001"
+		texturefile = "gfx/interface/equipmentdesigner/naval/PRC/CVN2.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRC_003"
+		texturefile = "gfx/interface/equipmentdesigner/naval/PRC/CVN4.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRC_004"
+		texturefile = "gfx/interface/equipmentdesigner/naval/PRC/CVN5.dds"
+	}
+	SpriteType = {
+		name = "GFX_JAP_Frigate"
+		texturefile = "gfx/interface/equipmentdesigner/naval/JAP/JAP_Frigate.png"
+	}
+	SpriteType = {	
+		name = "GFX_JAP_destroyer"
+		texturefile = "gfx/interface/equipmentdesigner/naval/JAP/JAP_destroyer.png"
+	}
+
+
+	#̫��
+	spriteType = {
+		name = "GFX_PRC_space_plan_I"
+		textureFile = "gfx/interface/texticons/banners/decisions/PRC_space_plan_I.png"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_PRC_space_plan_II"
+		textureFile = "gfx/interface/texticons/banners/decisions/PRC_space_plan_II.png"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_PRC_space_plan_III"
+		textureFile = "gfx/interface/texticons/banners/decisions/PRC_space_plan_III.png"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_PRC_space_plan_IV"
+		textureFile = "gfx/interface/texticons/banners/decisions/PRC_space_plan_IV.png"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_PRC_space_plan_V"
+		textureFile = "gfx/interface/texticons/banners/decisions/PRC_space_plan_V.png"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_PRC_space_plan_VI"
+		textureFile = "gfx/interface/texticons/banners/decisions/PRC_space_plan_VI.png"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_PRC_space_plan_VII"
+		textureFile = "gfx/interface/texticons/banners/decisions/PRC_space_plan_VII.png"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_PRC_space_plan_VIII"
+		textureFile = "gfx/interface/texticons/banners/decisions/PRC_space_plan_VIII.png"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_PRC_space_plan_IX"
+		textureFile = "gfx/interface/texticons/banners/decisions/PRC_space_plan_IX.png"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_PRC_space_plan_X"
+		textureFile = "gfx/interface/texticons/banners/decisions/PRC_space_plan_X.png"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_PRC_space_plan_XI"
+		textureFile = "gfx/interface/texticons/banners/decisions/PRC_space_plan_XI.png"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_PRC_space_plan_XII"
+		textureFile = "gfx/interface/texticons/banners/decisions/PRC_space_plan_XII.png"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_PRC_space_plan_XIII"
+		textureFile = "gfx/interface/texticons/banners/decisions/PRC_space_plan_XIII.png"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_TFR_PRC_space_decisions_icon"
+		textureFile = "gfx/interface/decisions/PRC/TFR_PRC_space_decisions_icon.png"
+	}
+
+	spriteType = {
+		name = "GFX_TFR_PRC_spacemoon_decisions_icon"
+		textureFile = "gfx/interface/decisions/PRC/TFR_PRC_spacemoon_decisions_icon.png"
+	}
+
+	spriteType = {
+		name = "GFX_TFR_PRC_spacemars_decisions_icon"
+		textureFile = "gfx/interface/decisions/PRC/TFR_PRC_spacemars_decisions_icon.png"
+	}
+
+	spriteType = {
+		name = "GFX_TFR_PRC_spaceelevator_decisions_icon"
+		textureFile = "gfx/interface/decisions/PRC/TFR_PRC_spaceelevator_decisions_icon.png"
+	}
+
+	spriteType = {
+		name = "GFX_TFR_PRC_spaceport_decisions_icon"
+		textureFile = "gfx/interface/decisions/PRC/TFR_PRC_spaceport_decisions_icon.png"
+	}
+
+	spriteType = {
+		name = "GFX_TFR_PRC_spacemoonbase_decisions_icon"
+		textureFile = "gfx/interface/decisions/PRC/TFR_PRC_spacemoonbase_decisions_icon.png"
+	}
+
+	spriteType = {
+		name = "GFX_modifiers_TFR_PRC_Spaceelevator_dynamic_modifier"
+		textureFile = "gfx/interface/state_modifiers/TFR_PRC_Spaceelevator_dynamic_modifier.png"
+	}
+
+	spriteType = {
+		name = "GFX_TFR_PRC_hangtianjv_event"
+		textureFile = "gfx/interface/decisions/PRC/TFR_PRC_hangtianjv_event.png"
+		legacy_lazy_load = no
+	}
+
+	spriteType = {
+		name = "GFX_TFR_PRC_dengyue_start_event"
+		textureFile = "gfx/event_pictures/TFR_PRC_dengyue_start_event.png"
+	}
+	spriteType = {
+		name = "GFX_TFR_PRC_dengyue_end_event"
+		textureFile = "gfx/event_pictures/TFR_PRC_dengyue_end_event.png"
+	}
+	spriteType = {
+		name = "GFX_TFR_PRC_dengyue_news_event"
+		textureFile = "gfx/event_pictures/TFR_PRC_dengyue_news_event.png"
+	}
+
+	spriteType = {
+		name = "GFX_TFR_PRC_taikongdianti_start_event"
+		textureFile = "gfx/event_pictures/TFR_PRC_taikongdianti_start_event.png"
+	}
+	spriteType = {
+		name = "GFX_TFR_PRC_taikongdianti_end_event"
+		textureFile = "gfx/event_pictures/TFR_PRC_taikongdianti_end_event.png"
+	}
+	spriteType = {
+		name = "GFX_TFR_PRC_taikongdianti_news_event"
+		textureFile = "gfx/event_pictures/TFR_PRC_taikongdianti_news_event.png"
+	}
+
+	spriteType = {
+		name = "GFX_TFR_PRC_yuemianjidi_start_event"
+		textureFile = "gfx/event_pictures/TFR_PRC_yuemianjidi_start_event.png"
+	}
+	spriteType = {
+		name = "GFX_TFR_PRC_yuemianjidi_end_event"
+		textureFile = "gfx/event_pictures/TFR_PRC_yuemianjidi_end_event.png"
+	}
+	spriteType = {
+		name = "GFX_TFR_PRC_yuemianjidi_news_event"
+		textureFile = "gfx/event_pictures/TFR_PRC_yuemianjidi_news_event.png"
+	}
+
+	spriteType = {
+		name = "GFX_TFR_PRC_dengluhuoxing_start_event"
+		textureFile = "gfx/event_pictures/TFR_PRC_dengluhuoxing_start_event.png"
+	}
+	spriteType = {
+		name = "GFX_TFR_PRC_dengluhuoxing_middle_event"
+		textureFile = "gfx/event_pictures/TFR_PRC_dengluhuoxing_middle_event.png"
+	}
+	spriteType = {
+		name = "GFX_TFR_PRC_dengluhuoxing_end_event"
+		textureFile = "gfx/event_pictures/TFR_PRC_dengluhuoxing_end_event.png"
+	}
+	spriteType = {
+		name = "GFX_TFR_PRC_dengluhuoxing_news_event"
+		textureFile = "gfx/event_pictures/TFR_PRC_dengluhuoxing_news_event.png"
+	}
+	spriteType = {
+		name = "GFX_TFR_PRC_lockdown_pdo"
+		textureFile = "gfx/event_pictures/TFR_PRC_lockdown_pdo.png"
+	}
+	spriteType = {
+		name = "GFX_TFR_PRC_sebotage"
+		textureFile = "gfx/event_pictures/TFR_PRC_sebotage.png"
+	}
+	spriteType = {
+		name = "GFX_TFR_PRC_navy_warning"
+		textureFile = "gfx/event_pictures/TFR_PRC_navy_warning.png"
+	}
+	spriteType = {
+		name = "GFX_TFR_PRC_emergency"
+		textureFile = "gfx/event_pictures/TFR_PRC_emergency.png"
+	}
+	spriteType = {
+		name = "GFX_TFR_PRC_unbearable"
+		textureFile = "gfx/event_pictures/TFR_PRC_unbearable.png"
+	}
+	spriteType = {
+		name = "GFX_TFR_PRC_xi_talk"
+		textureFile = "gfx/event_pictures/TFR_PRC_xi_talk.png"
+	}
+	spriteType = {
+		name = "GFX_TFR_PRC_liancan"
+		textureFile = "gfx/event_pictures/TFR_PRC_liancan.png"
+	}
+	spriteType = {
+		name = "GFX_TFR_PRC_canmohuiyi"
+		textureFile = "gfx/event_pictures/TFR_PRC_canmohuiyi.png"
+	}
+	spriteType = {
+		name = "GFX_TFR_PRC_chosen_soldier"
+		textureFile = "gfx/event_pictures/TFR_PRC_chosen_soldier.png"
+	}
+	spriteType = {
+		name = "GFX_TFR_PRC_fleet"
+		textureFile = "gfx/event_pictures/TFR_PRC_fleet.png"
+	}
+}
+
+
+spriteTypes = {
+
+	# leaders we need to override in DLC go in this file
+
+	spriteType = {
+		name = "GFX_focus_PRC_electric_power_reform"
+		texturefile = "gfx/interface/goals/PRC2/PRC_electric_power_reform.png"
+		legacy_lazy_load = yes
+	}
+	SpriteType = {
+		name = "GFX_focus_PRC_electric_power_reform_shine"
+		texturefile = "gfx/interface/goals/PRC2/PRC_electric_power_reform.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/PRC2/PRC_electric_power_reform.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+	
+		animation = {
+			animationmaskfile = "gfx/interface/goals/PRC2/PRC_electric_power_reform.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+		legacy_lazy_load = yes
+		}
+
+	spriteType = {
+		name = "GFX_focus_PRC_New_energy_power_reform"
+		texturefile = "gfx/interface/goals/PRC2/PRC_New_energy_power_reform.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_PRC_New_energy_power_reform_shine"
+		texturefile = "gfx/interface/goals/PRC2/PRC_New_energy_power_reform.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/PRC2/PRC_New_energy_power_reform.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+	
+		animation = {
+			animationmaskfile = "gfx/interface/goals/PRC2/PRC_New_energy_power_reform.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+		legacy_lazy_load = yes
+		}
+
+		spriteType = {
+			name = "GFX_focus_PRC_NEW_Nuclear_revolution"
+			texturefile = "gfx/interface/goals/PRC2/PRC_NEW_Nuclear_revolution.png"
+		}
+		SpriteType = {
+			name = "GFX_focus_PRC_New_energy_power_reform_shine"
+			texturefile = "gfx/interface/goals/PRC2/PRC_NEW_Nuclear_revolution.png"
+			effectFile = "gfx/FX/buttonstate.lua"
+			animation = {
+				animationmaskfile = "gfx/interface/goals/PRC2/PRC_NEW_Nuclear_revolution.png"
+				animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+				animationrotation = -90.0
+				animationlooping = no
+				animationtime = 0.75
+				animationdelay = 0
+				animationblendmode = "add"
+				animationtype = "scrolling"
+				animationrotationoffset = { x = 0.0 y = 0.0 }
+				animationtexturescale = { x = 1.0 y = 1.0 }
+			}
+		
+			animation = {
+				animationmaskfile = "gfx/interface/goals/PRC2/PRC_NEW_Nuclear_revolution.png"
+				animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+				animationrotation = 90.0
+				animationlooping = no
+				animationtime = 0.75
+				animationdelay = 0
+				animationblendmode = "add"
+				animationtype = "scrolling"
+				animationrotationoffset = { x = 0.0 y = 0.0 }
+				animationtexturescale = { x = 1.0 y = 1.0 }
+			}
+			legacy_lazy_load = yes
+			}
+
+	spriteType = {
+		name = "GFX_focus_PRC_Upgrading_of_thermal_power_station"
+		texturefile = "gfx/interface/goals/PRC2/PRC_Upgrading_of_thermal_power_station.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_PRC_Upgrading_of_thermal_power_station_shine"
+		texturefile = "gfx/interface/goals/PRC2/PRC_Upgrading_of_thermal_power_station.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/PRC2/PRC_Upgrading_of_thermal_power_station.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+	
+		animation = {
+			animationmaskfile = "gfx/interface/goals/PRC2/PRC_Upgrading_of_thermal_power_station.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+		legacy_lazy_load = yes
+		}
+
+	spriteType = {
+		name = "GFX_focus_PRC_Ensure_power_supply_for_enterprises"
+		texturefile = "gfx/interface/goals/PRC2/PRC_Ensure_power_supply_for_enterprises.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_PRC_Ensure_power_supply_for_enterprises_shine"
+		texturefile = "gfx/interface/goals/PRC2/PRC_Ensure_power_supply_for_enterprises.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/PRC2/PRC_Ensure_power_supply_for_enterprises.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+	
+		animation = {
+			animationmaskfile = "gfx/interface/goals/PRC2/PRC_Ensure_power_supply_for_enterprises.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+		legacy_lazy_load = yes
+		}
+
+	spriteType = {
+		name = "GFX_focus_PRC_Complete_electricity_reform"
+		texturefile = "gfx/interface/goals/PRC2/PRC_Complete_electricity_reform.png"
+	}
+	SpriteType = {
+		name = "GFX_focus_PRC_Complete_electricity_reform_shine"
+		texturefile = "gfx/interface/goals/PRC2/PRC_Complete_electricity_reform.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/PRC2/PRC_Complete_electricity_reform.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+	
+		animation = {
+			animationmaskfile = "gfx/interface/goals/PRC2/PRC_Complete_electricity_reform.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+		legacy_lazy_load = yes
+		}
+}
+
+SpriteTypes = {
+	spriteType = {
+		name = "GFX_PRC_judgement"
+		texturefile = "gfx/interface/event_pictures/PRC_judgement.png"
+	}
+	spriteType= {
+		name = "GFX_PRC_history_book"
+		texturefile = "gfx/interface/event_pictures/PRC_history_book.png"
+	}
+	spriteType= {
+		name = "GFX_PRC_civil_servies"
+		texturefile = "gfx/interface/event_pictures/PRC_civil_servies.png"
+	}
+	spriteType= {
+		name = "GFX_PRC_taiwan_view"
+		texturefile = "gfx/interface/event_pictures/PRC_taiwan_view.png"
+	}
+	spriteType= {
+		name = "GFX_PRC_naval_watch"
+		texturefile = "gfx/interface/event_pictures/PRC_naval_watch.png"
+	}
+	spriteType = {
+		name = "GFX_TFR_PRC_xiaohongshu_event"
+		textureFile = "gfx/event_pictures/TFR_PRC_xiaohongshu_event.png"
+	}
+	spriteType = {
+		name = "GFX_TFR_PRC_xizang1_event"
+		textureFile = "gfx/event_pictures/TFR_PRC_xizang1_event.png"
+	}
+	spriteType = {
+		name = "GFX_TFR_PRC_xizang2_event"
+		textureFile = "gfx/event_pictures/TFR_PRC_xizang2_event.png"
+	}
+	spriteType = {
+		name = "GFX_TFR_PRC_fanyingdui_event"
+		textureFile = "gfx/event_pictures/TFR_PRC_fanyingdui_event.png"
+	}
+	spriteType = {
+		name = "GFX_PRC_gongxinbu"
+		textureFile = "gfx/event_pictures/PRC_gongxinbu.png"
+	}
+	spriteType = {
+		name = "GFX_PRC_electric_farm"
+		textureFile = "gfx/event_pictures/PRC_electric_farm.png"
+	}
+	spriteType = {
+		name = "GFX_PRC_clean_energy"
+		textureFile = "gfx/event_pictures/PRC_clean_energy.png"
+	}
+	spriteType = {
+		name = "GFX_PRC_new_powerplant"
+		textureFile = "gfx/event_pictures/PRC_new_powerplant.png"
+	}
+	spriteType = {
+		name = "GFX_PRC_nukeplant"
+		textureFile = "gfx/event_pictures/PRC_nukeplant.png"
+	}
+	spriteType = {
+		name = "GFX_PRC_new_nukeplant"
+		textureFile = "gfx/event_pictures/PRC_new_nukeplant.png"
+	}
+	spriteType = {
+		name = "GFX_PRC_state_grid"
+		textureFile = "gfx/event_pictures/PRC_state_grid.png"
+	}
+	spriteType = {
+		name = "GFX_PRC_power_line"
+		textureFile = "gfx/event_pictures/PRC_power_line.png"
+	}	
+}
+#潜龙制作组图片
+SpriteTypes = {
+	spriteType = {
+		name = "GFX_qianlong_tengyuan"
+		textureFile = "gfx/event_pictures/qianlong_tengyuan.png"
+	}	
+}
+
