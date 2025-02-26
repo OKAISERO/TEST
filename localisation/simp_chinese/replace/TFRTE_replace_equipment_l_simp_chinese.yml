@@ -1,0 +1,6 @@
+﻿l_simp_chinese:
+ floating_harbor_equipment: "浮动港口"
+ floating_harbor_equipment_desc: "由一系列浮筒和预制混凝土结构组成，可以在水面上移动并在数小时内组装起来，作为有遮蔽的停泊空间来装卸补给。"
+ floating_harbor_equipment_1: "浮动港口"
+ floating_harbor_equipment_1_desc: "由一系列浮筒和预制混凝土结构组成，可以在水面上移动并在数小时内组装起来，作为有遮蔽的停泊空间来装卸补给。"
+ UNIT_GENERIC_NAME_GENERIC_INFANTRY: "第$NR$$NAME$"
