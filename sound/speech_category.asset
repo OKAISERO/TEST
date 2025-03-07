@@ -74,5 +74,6 @@
 			TFR_PRC_space_elevator_super_event
 			TFR_PRC_moon_base_super_event
 			TFR_PRC_to_mars_super_event
+			TFR_PRC_tongyi_super_event
 		}
 	}

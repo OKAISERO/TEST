@@ -347,3 +347,8 @@
 		name = "TFR_PRC_to_mars_super_event"
 		file = "Super_Events/TFR_PRC_to_mars_super_event.wav"
 	}
+
+	sound = {
+		name = "TFR_PRC_tongyi_super_event"
+		file = "Super_Events/TFR_PRC_tongyi_super_event.wav"
+	}

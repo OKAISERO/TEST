@@ -562,3 +562,11 @@
 		}
 		volume = 3.0
 	}
+
+	soundeffect = {
+		name = "TFR_PRC_tongyi_super_event"
+		sounds = {
+			sound = TFR_PRC_tongyi_super_event
+		}
+		volume = 3.0
+	}
